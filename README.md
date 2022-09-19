@@ -1,14 +1,14 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS
-企業のテックブログの更新をまとめたRSSフィードを配信しています。  
-記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
+# <img src="src/site/images/icon-transparent.png" height=26> 技術イベントRSS
+技術イベントの更新をまとめたRSSフィードを配信しています。
 
-https://yamadashy.github.io/tech-blog-rss-feed/
+https://kaas59.github.io/tech-blog-rss-feed/
 
 
-独自のフィードを作って公開したい場合は自由にフォークしてください。
+[@yamadashy](https://github.com/yamadashy)さんの作成された[yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed)をベースにカスタムしております。
 
+<!--
 ## サイト追加の方針
-企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。  
+企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。
 ただし、以下に該当するものは検討します。
 
 - その企業の取り組みでないものが多く投稿される可能性があるブログ
@@ -22,20 +22,22 @@ https://yamadashy.github.io/tech-blog-rss-feed/
 - [Zenn](https://zenn.dev/), [note](https://note.com/), [Medium](https://medium.com/) などの企業系テックブログ
 - 企業系ブログのテクノロジーカテゴリ
 
+-->
+
 ## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。  
+[src/resources/feed-info-list.ts](https://github.com/kaas59/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
 
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。
 
 1. このリポジトリをフォーク
-2. ブランチ作成  
+2. ブランチ作成
    `git checkout -b new-blog-feed-xxx`
-3. フィードを追加  
+3. フィードを追加
    `src/resources/feed-info-list.ts` の `FEED_INFO_LIST` を更新
-4. コミット  
+4. コミット
    `git commit -am 'add: 新規フィード追加`
-5. プッシュ  
+5. プッシュ
    `git push origin new-blog-feed-xxx`
 6. プルリクを作成
 
