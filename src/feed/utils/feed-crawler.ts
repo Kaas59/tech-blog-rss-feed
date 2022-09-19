@@ -119,35 +119,35 @@ export class FeedCrawler {
     const customFeed = feed as CustomRssParserFeed;
 
     // ブログごとの調整
-    switch (feedInfo.label) {
-      case 'メルカリ':
-        // 9時間ずれているので調整
-        FeedCrawler.subtractFeedItemsDateHour(customFeed, 9);
-        customFeed.link = 'https://engineering.mercari.com/blog/';
-        break;
-      case 'KAIZEN PLATFORM':
-        // 9時間ずれているので調整
-        FeedCrawler.subtractFeedItemsDateHour(customFeed, 9);
-        break;
-      case 'Tokyo Otaku Mode':
-        customFeed.link = 'https://blog.otakumode.com/';
-        break;
-      case 'フューチャー':
-        customFeed.link = 'https://future-architect.github.io/';
-        break;
-      case 'さくら':
-        customFeed.link = 'https://knowledge.sakura.ad.jp/';
-        break;
-      case 'YOJO Technologies':
-        customFeed.title = 'YOJO Technologies Blog';
-        break;
-      case 'POL':
-        customFeed.title = 'POL テックノート';
-        break;
-      case 'mofmof':
-        customFeed.link = 'https://tech.mof-mof.co.jp';
-        break;
-    }
+    // switch (feedInfo.label) {
+    //   case 'メルカリ':
+    //     // 9時間ずれているので調整
+    //     FeedCrawler.subtractFeedItemsDateHour(customFeed, 9);
+    //     customFeed.link = 'https://engineering.mercari.com/blog/';
+    //     break;
+    //   case 'KAIZEN PLATFORM':
+    //     // 9時間ずれているので調整
+    //     FeedCrawler.subtractFeedItemsDateHour(customFeed, 9);
+    //     break;
+    //   case 'Tokyo Otaku Mode':
+    //     customFeed.link = 'https://blog.otakumode.com/';
+    //     break;
+    //   case 'フューチャー':
+    //     customFeed.link = 'https://future-architect.github.io/';
+    //     break;
+    //   case 'さくら':
+    //     customFeed.link = 'https://knowledge.sakura.ad.jp/';
+    //     break;
+    //   case 'YOJO Technologies':
+    //     customFeed.title = 'YOJO Technologies Blog';
+    //     break;
+    //   case 'POL':
+    //     customFeed.title = 'POL テックノート';
+    //     break;
+    //   case 'mofmof':
+    //     customFeed.link = 'https://tech.mof-mof.co.jp';
+    //     break;
+    // }
 
     if (!isValidHttpUrl(customFeed.link)) {
       logger.warn('取得したフィードのURLが正しくありません。 ', feedInfo.label, customFeed.link);

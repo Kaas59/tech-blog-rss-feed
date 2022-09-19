@@ -1,20 +1,20 @@
-const siteUrlStem = 'https://yamadashy.github.io/tech-blog-rss-feed';
+const siteUrlStem = 'https://kaas59.github.io/tech-event-rss-feed';
 const siteUrl = `${siteUrlStem}/`;
 
 module.exports = {
   // サイト設定
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
-  siteTitle: '企業テックブログRSS',
+  siteTitle: '技術イベントRSS',
   siteDescription:
-    '企業のテックブログの更新をまとめたRSSフィードを配信しています。記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。',
+    '技術イベントの更新をまとめたRSSフィードを配信しています。',
 
   // フィード設定
-  feedTitle: '企業テックブログRSS',
-  feedDescription: '企業のテックブログの更新をまとめたRSSフィード',
+  feedTitle: '技術イベントRSS',
+  feedDescription: '技術イベントの更新をまとめたRSSフィード',
   feedLanguage: 'ja',
-  feedCopyright: 'yamadashy/tech-blog-rss-feed',
-  feedGenerator: 'yamadashy/tech-blog-rss-feed',
+  feedCopyright: 'kaas59/tech-event-rss-feed',
+  feedGenerator: 'kaas59/tech-event-rss-feed',
   feedUrls: {
     atom: `${siteUrl}feeds/atom.xml`,
     rss: `${siteUrl}feeds/rss.xml`,
@@ -22,14 +22,14 @@ module.exports = {
   },
 
   // GitHub
-  author: 'yamadashy',
-  gitHubUserUrl: 'https://github.com/yamadashy/',
-  gitHubRepositoryUrl: 'https://github.com/yamadashy/tech-blog-rss-feed/',
+  author: 'kaas59',
+  gitHubUserUrl: 'https://github.com/kaas59/',
+  gitHubRepositoryUrl: 'https://github.com/kaas59/tech-event-rss-feed/',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
-  googleSiteVerification: 'GPLvXv8kYtLMW912ZS54DKFEZL6ruOrjOFLdHVTo37o',
-  globalSiteTagKey: 'G-CNNNTL0NB3',
+  googleSiteVerification: '',
+  globalSiteTagKey: '',
 
   // フィードの取得などに使う UserAgent
-  requestUserAgent: 'facebookexternalhit/1.1; yamadashy/tech-blog-rss-feed',
+  requestUserAgent: 'facebookexternalhit/1.1; kaas59/tech-event-rss-feed',
 };
