@@ -27,8 +27,8 @@ module.exports = {
   gitHubRepositoryUrl: 'https://github.com/kaas59/tech-event-rss-feed/',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
-  googleSiteVerification: '',
-  globalSiteTagKey: '',
+  googleSiteVerification: '56Jwt44zc0o9hkkDuK6HY8dCEIgceW6Ortqf7dOPUlM',
+  globalSiteTagKey: 'G-YZG219JNLY',
 
   // フィードの取得などに使う UserAgent
   requestUserAgent: 'facebookexternalhit/1.1; kaas59/tech-event-rss-feed',
