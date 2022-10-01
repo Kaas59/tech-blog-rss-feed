@@ -32,13 +32,13 @@ https://kaas59.github.io/tech-blog-rss-feed/
 
 1. このリポジトリをフォーク
 2. ブランチ作成
-   `git checkout -b new-blog-feed-xxx`
+   `git checkout -b new-event-feed-xxx`
 3. フィードを追加
    `src/resources/feed-info-list.ts` の `FEED_INFO_LIST` を更新
 4. コミット
    `git commit -am 'add: 新規フィード追加`
 5. プッシュ
-   `git push origin new-blog-feed-xxx`
+   `git push origin new-event-feed-xxx`
 6. プルリクを作成
 
 ## 開発
