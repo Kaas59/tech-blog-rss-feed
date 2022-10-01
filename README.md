@@ -1,7 +1,7 @@
 # <img src="src/site/images/icon-transparent.png" height=26> 技術イベントRSS
 技術イベントの更新をまとめたRSSフィードを配信しています。
 
-https://kaas59.github.io/tech-blog-rss-feed/
+https://kaas59.github.io/tech-event-rss-feed/
 
 
 [@yamadashy](https://github.com/yamadashy)さんの作成された[yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed)をベースにカスタムしております。
@@ -25,20 +25,20 @@ https://kaas59.github.io/tech-blog-rss-feed/
 -->
 
 ## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/kaas59/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
+[src/resources/feed-info-list.ts](https://github.com/kaas59/tech-event-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
 
 ### プルリクでの送り方
 もしプルリクを送っていただける場合は以下のように作成できます。
 
 1. このリポジトリをフォーク
 2. ブランチ作成
-   `git checkout -b new-blog-feed-xxx`
+   `git checkout -b new-event-feed-xxx`
 3. フィードを追加
    `src/resources/feed-info-list.ts` の `FEED_INFO_LIST` を更新
 4. コミット
    `git commit -am 'add: 新規フィード追加`
 5. プッシュ
-   `git push origin new-blog-feed-xxx`
+   `git push origin new-event-feed-xxx`
 6. プルリクを作成
 
 ## 開発

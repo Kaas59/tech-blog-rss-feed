@@ -72,6 +72,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Cloud Native Developers JP', 'https://cnd.connpass.com/ja.atom'],
   ['SRE Lounge', 'https://sre-lounge.connpass.com/ja.atom'],
   ['ISUCON', 'https://isucon.connpass.com/ja.atom'],
+  ['日本ディープラーニング協会', 'https://jdla.connpass.com/ja.atom'],
 
   // 設計
   ['現場から学ぶモデル駆動の設計', 'https://modeling-how-to-learn.connpass.com/ja.atom'],
