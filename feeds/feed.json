@@ -1,0 +1,1302 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "技術イベントRSS",
+    "home_page_url": "https://kaas59.github.io/tech-event-rss-feed/",
+    "feed_url": "https://kaas59.github.io/tech-event-rss-feed/feeds/feed.json",
+    "description": "技術イベントの更新をまとめたRSSフィード",
+    "icon": "https://kaas59.github.io/tech-event-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://freee-tech-night.connpass.com/event/278819/",
+            "content_html": "開催日時: 2023/04/07 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>配信 URL</h1> <ul> <li>YouTube: TBD</li> <li><a href=\"http://Sli.do\" rel=\"nofollow\">Sli.do</a>: TBD</li> </ul> <h1>freee Tech Night って何？</h1> <p>freee株式会社のエンジニアによる、エンジニアのためのイベントです！ freeeで利用している技術、組織、エンジニアの生態の紹介を皆様に知っていただけるような内容を定期的に配信します。 freeeでの自由度と裁量権の高い独自の開発文化を支えるエンジニア達がどういう想いや熱意でfreeeを開発しているのかに興味を持っていただければ幸いです。</p> <p>ちょっと短めの時間で、参加しやすい・聞きやすい内容を目指します。 普段はなかなか参加できない…という方も、ラジオを聴く感覚で、ぜひご参加ください！</p> <p>freeeはクラウド会計・人事労務ソフトを5年以上開発を続けており、...",
+            "url": "https://freee-tech-night.connpass.com/event/278819/",
+            "title": "freee Tech Night presents 「freee 技術の日」まであと９日！ | freee Tech Night グループの新着イベント",
+            "summary": "開催日時: 2023/04/07 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>配信 URL</h1> <ul> <li>YouTube: TBD</li> <li><a href=\"http://Sli.do\" rel=\"nofollow\">Sli.do</a>: TBD</li> </ul> <h1>freee Tech Night って何？</h...",
+            "date_modified": "2023-03-28T02:58:07.000Z",
+            "date_published": "2023-03-28T02:58:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "freee Tech Night presents 「freee 技術の日」まであと９日！",
+                "blogTitle": "freee Tech Night グループの新着イベント",
+                "blogLink": "https://freee-tech-night.connpass.com/",
+                "blogLinkMd5Hash": "31540930804e9c11b035bb8fb79bb008"
+            }
+        },
+        {
+            "id": "https://increments.connpass.com/event/279009/",
+            "content_html": "開催日時: 2023/04/28 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>本イベントは、日本最大級*のエンジニアコミュニティ「Qiita（キータ）」を運営する当社が実施するオンラインのテックトークイベントです。</p> <p>イベントごとにテーマを設け、技術についての知見を共有し合うQiita Nightを実施しています！<br> Qiitaトップコントリビューターを中心に、テーマについて深い知見を持っている方にご登壇いただき、LTをしていただきます。</p> <p>これを機に登壇者とも繋がり、気軽に情報交換や質問ができる場を作りたいと考えています。<br> イベント中の質問やご意見も大歓迎！関心のあるテーマの知見を深めるきっかけとしていただければ何よりです。</p> <p>※注釈：「最大級」は、エンジニアが集うオンラインコミュニティを市場として、IT人材白書（2020年版）と当社登録会員数・UU数の比較をもとに表現しています。</p> <h1>イベント内容：今回のテーマは「Qiita Night～Azu...",
+            "url": "https://increments.connpass.com/event/279009/",
+            "title": "Qiita Night～Azure～ | Qiita グループの新着イベント",
+            "summary": "開催日時: 2023/04/28 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>本イベントは、日本最大級*のエンジニアコミュニティ「Qiita（キータ）」を運営する当社が実施するオンラインのテックトークイベントです。</p> <p>イベントごとにテーマを設け、技術についての知見を共有し合うQiita Nightを実施してい...",
+            "date_modified": "2023-03-28T02:52:31.000Z",
+            "date_published": "2023-03-28T02:52:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Qiita Night～Azure～",
+                "blogTitle": "Qiita グループの新着イベント",
+                "blogLink": "https://increments.connpass.com/",
+                "blogLinkMd5Hash": "3e648fb5f9593243654d01d224b63bb0"
+            }
+        },
+        {
+            "id": "https://line.connpass.com/event/278357/",
+            "content_html": "開催日時: 2023/05/10 18:30 ～ 20:00<br />開催場所: 福岡県福岡市博多区博多駅中央街8-1 JRJP博多ビル12F<br /><br /><h1>LINE Fukuoka Summer Internshipを開催します！</h1> <p>LINEグループの国内第二拠点であるLINE Fukuoka。約120名のエンジニアが在籍し、LINE関連サービスの開発を担っています。</p> <p>この度当社では、2025卒向け夏季インターンシップを開催します。例年実施している6週間の就業型インターンシップに加え、今年から13日間のハッカソンコースも開設しました。インターン開催にあたり、ご興味がある方、応募を迷っている方を対象とした説明会も実施します。当日は過去インターンシップに参加したエンジニアが登壇し、プログラムの詳細やLINE Fukuoka開発組織についてお伝えします。</p> <p>皆さまのご参加、お待ちしております！</p> <p>▼参考リンク</p> <ul> <li> <p><a href=\"https://linefukuoka.co.jp/ja/c...",
+            "url": "https://line.connpass.com/event/278357/",
+            "title": "【25卒対象】LINE Fukuoka 夏季インターンシップ説明会（オフライン） | LINE Developer Meetup グループの新着イベント",
+            "summary": "開催日時: 2023/05/10 18:30 ～ 20:00<br />開催場所: 福岡県福岡市博多区博多駅中央街8-1 JRJP博多ビル12F<br /><br /><h1>LINE Fukuoka Summer Internshipを開催します！</h1> <p>LINEグループの国内第二拠点であるLINE Fukuoka。約120名のエンジニアが在籍し、LINE関連サービスの開発を担っていま...",
+            "date_modified": "2023-03-28T02:14:37.000Z",
+            "date_published": "2023-03-28T02:14:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【25卒対象】LINE Fukuoka 夏季インターンシップ説明会（オフライン）",
+                "blogTitle": "LINE Developer Meetup グループの新着イベント",
+                "blogLink": "https://line.connpass.com/",
+                "blogLinkMd5Hash": "3224f896faa91d41ea5952466aeb5f1c"
+            }
+        },
+        {
+            "id": "https://line.connpass.com/event/278354/",
+            "content_html": "開催日時: 2023/04/26 19:00 ～ 20:00<br />開催場所: (場所未定)<br /><br /><h1>LINE Fukuoka Summer Internshipを開催します！</h1> <p>LINEグループの国内第二拠点であるLINE Fukuoka。約120名のエンジニアが在籍し、LINE関連サービスの開発を担っています。</p> <p>この度当社では、2025卒向け夏季インターンシップを開催します。例年実施している6週間の就業型インターンシップに加え、今年から13日間のハッカソンコースも開設しました。インターン開催にあたり、ご興味がある方、応募を迷っている方を対象とした説明会も実施します。当日は過去インターンシップに参加したエンジニアが登壇し、プログラムの詳細やLINE Fukuoka開発組織についてお伝えします。</p> <p>皆さまのご参加、お待ちしております！</p> <p>▼参考リンク</p> <ul> <li> <p><a href=\"https://linefukuoka.co.jp/ja/career/engineer/recruitme...",
+            "url": "https://line.connpass.com/event/278354/",
+            "title": "【25卒対象】LINE Fukuoka 夏季インターンシップ説明会（オンライン） | LINE Developer Meetup グループの新着イベント",
+            "summary": "開催日時: 2023/04/26 19:00 ～ 20:00<br />開催場所: (場所未定)<br /><br /><h1>LINE Fukuoka Summer Internshipを開催します！</h1> <p>LINEグループの国内第二拠点であるLINE Fukuoka。約120名のエンジニアが在籍し、LINE関連サービスの開発を担っています。</p> <p>この度当社では、2025卒向...",
+            "date_modified": "2023-03-28T02:14:19.000Z",
+            "date_published": "2023-03-28T02:14:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【25卒対象】LINE Fukuoka 夏季インターンシップ説明会（オンライン）",
+                "blogTitle": "LINE Developer Meetup グループの新着イベント",
+                "blogLink": "https://line.connpass.com/",
+                "blogLinkMd5Hash": "3224f896faa91d41ea5952466aeb5f1c"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/279275/",
+            "content_html": "開催日時: 2023/04/12 09:30 ～ 12:30<br />開催場所: オンライン<br /><br /><p><strong>Microsoft Dynamics 365 Virtual Training Day: 常時利用可能なサービスを実現する </strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/DAOS-0412REG-connpass\" rel=\"nofollow\">https://aka.ms/DAOS-0412REG-connpass</a></strong></p> <p>※登録締切は、各イベントの2日前の16:00となります </p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p>【IT エンジニア、開発者向けの無料トレーニング】</p> <p>Dynamics 365 Customer Service と Dynamics 365 Field Service を使用して、組織をリアルタイムでサポートするために必要なスキルを...",
+            "url": "https://microsoft-events.connpass.com/event/279275/",
+            "title": "Microsoft Virtual Training Day: 常時利用可能なサービスを実現する | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/12 09:30 ～ 12:30<br />開催場所: オンライン<br /><br /><p><strong>Microsoft Dynamics 365 Virtual Training Day: 常時利用可能なサービスを実現する </strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/DAOS-041...",
+            "date_modified": "2023-03-27T08:00:58.000Z",
+            "date_published": "2023-03-27T08:00:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Virtual Training Day: 常時利用可能なサービスを実現する",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://line.connpass.com/event/278817/",
+            "content_html": "開催日時: 2023/04/20 17:30 ～ 2023/04/24 19:30<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2> <p>LINEでは、日本・アジア地域を中心に利用されているコミュニケーションアプリ「LINE」をはじめ、幅広い領域で様々な事業を展開しております。</p> <p>今回のオンラインイベントでは、全3日程に渡ってLINEで働くエンジニアが各組織・技術領域別における日々の業務内容や働く環境等についてお話しします。<br></p> <p>LINEに興味のある方はもちろん、エンジニアとしてのキャリアについてヒントを得たい方は是非お気軽にご参加ください！<br> ※説明会は全て日本語で行われます。<br></p> <h2>日程<br></h2> <p>【Day1】2023/04/20（木） 17:30~20:00 開発コース<br> 【Day2】2023/04/21（金） 17:30~20:00 機械学習・AIコース&amp;データコース<br> 【Day3】2023/04/24（月） 17:30~19:35 インフラコース&a...",
+            "url": "https://line.connpass.com/event/278817/",
+            "title": "LINE SUMMER INTERNSHIP 2023 説明会 | 技術職 | LINE Developer Meetup グループの新着イベント",
+            "summary": "開催日時: 2023/04/20 17:30 ～ 2023/04/24 19:30<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2> <p>LINEでは、日本・アジア地域を中心に利用されているコミュニケーションアプリ「LINE」をはじめ、幅広い領域で様々な事業を展開しております。</p> <p>今回のオンラインイベントでは、全3日程に渡ってLINEで働くエンジ...",
+            "date_modified": "2023-03-27T05:44:09.000Z",
+            "date_published": "2023-03-27T05:44:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LINE SUMMER INTERNSHIP 2023 説明会 | 技術職",
+                "blogTitle": "LINE Developer Meetup グループの新着イベント",
+                "blogLink": "https://line.connpass.com/",
+                "blogLinkMd5Hash": "3224f896faa91d41ea5952466aeb5f1c"
+            }
+        },
+        {
+            "id": "https://increments.connpass.com/event/278282/",
+            "content_html": "開催日時: 2023/04/26 18:00 ～ 20:30<br />開催場所: 〒150-8510 東京都渋谷区渋谷2-21-1 渋谷ヒカリエ30階<br /><br /><h1><strong>【Qiita×Okta Developer Meetup】「アプリケーション開発の攻めと守り」を開催します！</strong></h1> <p>現在のアプリケーション開発において、より良い顧客体験を提供するには、UX・CXを向上させる「攻め」と高品質で安全に利用することができる「守り」の両立が大変重要です。<br> 今回のイベントでは、<strong>東京タワーを拠点にリアル×デジタルの顧客体験を提供する日本最大規模のesportsパーク「RED° TOKYO TOWER※」</strong>を運営するTEG株式会社CTOの小林学氏を迎え、最先端のUX・CXを提供する「攻め」のアプリケーション開発と安定したアプリケーション運営品質を保つための「守り」をテーマに、アプリケーション開発者の皆さまに向けてお話しいただきます。<br> また、イベント前半ではOkta製品のデモンストレーションを実施...",
+            "url": "https://increments.connpass.com/event/278282/",
+            "title": "【 Qiita×Okta Developer Meetup】アプリケーション開発の攻めと守り | Qiita グループの新着イベント",
+            "summary": "開催日時: 2023/04/26 18:00 ～ 20:30<br />開催場所: 〒150-8510 東京都渋谷区渋谷2-21-1 渋谷ヒカリエ30階<br /><br /><h1><strong>【Qiita×Okta Developer Meetup】「アプリケーション開発の攻めと守り」を開催します！</strong></h1> <p>現在のアプリケーション開発において、より良い顧客体験を提...",
+            "date_modified": "2023-03-27T04:22:29.000Z",
+            "date_published": "2023-03-27T04:22:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【 Qiita×Okta Developer Meetup】アプリケーション開発の攻めと守り",
+                "blogTitle": "Qiita グループの新着イベント",
+                "blogLink": "https://increments.connpass.com/",
+                "blogLinkMd5Hash": "3e648fb5f9593243654d01d224b63bb0"
+            }
+        },
+        {
+            "id": "https://shopify-meet.connpass.com/event/276753/",
+            "content_html": "開催日時: 2023/04/14 16:00 ～ 18:00<br />開催場所: オンライン<br /><br /><h2>Shopify Edtions23冬を2時間で振り返る</h2> <p>2月頭に公開されたShopify Edtions 23冬ですが<br></p> <p>「いつか見直さないとな～」<br> 「量多すぎ、エグいwww」 <br>  と放置していて、クライアントや同僚にShopifyでの機能実現性を聞かれ<br></p> <p>「そういや、Editionsでこんな機能あった気がする、、、どれどれ」なんて見直しているのではないでしょうか。はい、、、それは私です。</p> <p>そんな人のために今回、Shopify Editions23冬振り返りを開催します～</p> <p>今回の振り返り会の内容はこういう内容です。</p> <ul> <li>2時間でShopify Editionsの要点を把握する</li> <li>スピーカーできる方は立候補（挙手制です、LTのイメージ）</li> <li>質疑応答は最後にまとめて</li> </ul> <p>てな感じで進行します...",
+            "url": "https://shopify-meet.connpass.com/event/276753/",
+            "title": "【開発者向け】Shopify Editions 2023冬 総ざらいMeet Up | Shopify開発者向け勉強会 グループの新着イベント",
+            "summary": "開催日時: 2023/04/14 16:00 ～ 18:00<br />開催場所: オンライン<br /><br /><h2>Shopify Edtions23冬を2時間で振り返る</h2> <p>2月頭に公開されたShopify Edtions 23冬ですが<br></p> <p>「いつか見直さないとな～」<br> 「量多すぎ、エグいwww」 <br>  と放置していて、クライアントや同僚にSh...",
+            "date_modified": "2023-03-27T04:03:27.000Z",
+            "date_published": "2023-03-27T04:03:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【開発者向け】Shopify Editions 2023冬 総ざらいMeet Up",
+                "blogTitle": "Shopify開発者向け勉強会 グループの新着イベント",
+                "blogLink": "https://shopify-meet.connpass.com/",
+                "blogLinkMd5Hash": "a5fa365719ea6c3741c7d922ba91835d"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278078/",
+            "content_html": "開催日時: 2023/04/17 09:30 ～ 2023/04/18 12:00<br />開催場所: オンライン<br /><br /><p><strong>【管理者・設計者向け無料トレーニング】Microsoft Azure Virtual Training Day: Well-Architected </strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/AWAF-0417REG-connpass\" rel=\"nofollow\">https://aka.ms/AWAF-0417REG-connpass</a></strong></p> <p>※登録締切は、イベント1日目開始時刻の48時間前となります </p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p>.</p> <p><strong>高性能なワークロードの構築と管理方法について学びませんか？</strong></p> <p>本トレーニングでは、高性能なワークロードの構築と管理方法について学ぶこと...",
+            "url": "https://microsoft-events.connpass.com/event/278078/",
+            "title": "Microsoft Training Days: Well-Architected | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/17 09:30 ～ 2023/04/18 12:00<br />開催場所: オンライン<br /><br /><p><strong>【管理者・設計者向け無料トレーニング】Microsoft Azure Virtual Training Day: Well-Architected </strong></p> <p><strong>詳細・お申込はこちら：<a href=\"...",
+            "date_modified": "2023-03-27T03:02:19.000Z",
+            "date_published": "2023-03-27T03:02:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Days: Well-Architected",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/279248/",
+            "content_html": "開催日時: 2023/03/31 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p> <p>詳細は <a href=\"https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b\" rel=\"nofollow\">ゆめみ・オープンハンドブック</a> をご覧ください。</p> <h4>オンライン開催</h4> <p>Zoom を使ったオンライン開催になりますけれど...",
+            "url": "https://yumemi.connpass.com/event/279248/",
+            "title": "熊谷さんのやさしいSwift勉強会 #233 #YUMEMI.grow | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/31 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <...",
+            "date_modified": "2023-03-27T02:55:16.000Z",
+            "date_published": "2023-03-27T02:55:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "熊谷さんのやさしいSwift勉強会 #233 #YUMEMI.grow",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://cyberagent.connpass.com/event/278941/",
+            "content_html": "開催日時: 2023/03/31 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h2>CA Tech Loungeとは</h2> <p>CA Tech Loungeは、エンジニアを志す方のための学習コミュニティスペースです。 <br>入会試験はこれまでの実務経験、現在の所属などに関わらず受験可能です。</p> <p><img src=\"https://hayabusa.io/ca/files/user/202303092000_1.jpg?version=1678359644&amp;v=1678359644\" width=\"500px\"></p> <h3>CA Tech Lounge入会試験について</h3> <p>CA Tech Loungeでは現在、開設日となる5/15から入会いただく、一期生会員を募集しております。 <br>一期生エントリーは4/3(月)までとなっております。選考は下記を御覧ください。 <img src=\"https://pbs.twimg.com/media/Fr-WGtXaIAAADz0.png\" width=\"500...",
+            "url": "https://cyberagent.connpass.com/event/278941/",
+            "title": "CyberAgentの学習コミュニティスペース「CA Tech Lounge」説明会 | サイバーエージェント / CyberAgent グループの新着イベント",
+            "summary": "開催日時: 2023/03/31 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h2>CA Tech Loungeとは</h2> <p>CA Tech Loungeは、エンジニアを志す方のための学習コミュニティスペースです。 <br>入会試験はこれまでの実務経験、現在の所属などに関わらず受験可能です。</p> <p><img src=\"https://hay...",
+            "date_modified": "2023-03-24T09:19:11.000Z",
+            "date_published": "2023-03-24T09:19:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CyberAgentの学習コミュニティスペース「CA Tech Lounge」説明会",
+                "blogTitle": "サイバーエージェント / CyberAgent グループの新着イベント",
+                "blogLink": "https://cyberagent.connpass.com/",
+                "blogLinkMd5Hash": "349dbd551e938dc8cdf0f29126ae6508"
+            }
+        },
+        {
+            "id": "https://ux-caravan.connpass.com/event/279043/",
+            "content_html": "開催日時: 2023/04/18 12:00 ～ 12:45<br />開催場所: オンライン<br /><br /><h1><strong>売れないリスクを最小化！新規事業アイデアの発想＆検証フレームワーク</strong></h1> <p>自社の新規事業開発を担当している方向けに、「生活者の日常的なシーンを起点にアイデアを発想し、ユーザーの新しい体験として具体化していくフレームワーク」をご紹介します</p> <p><strong>※過去のセミナー【UX基礎 】「新規事業アイデアの発想＆検証フレームワーク」に参加された方は、同等の内容になりますのでご注意ください。（復習としてのご参加は歓迎します！）</strong></p> <h3>UX CARAVANとは</h3> <p>自社でUXデザインを実践するのに役立つノウハウ、事例、トレンド情報をお届けしています。 セミナー開催100回、メンバーも1,000人を超えました。 ぜひ、グループ（ <a href=\"https://ux-caravan.connpass.com/\" rel=\"nofollow\">https://ux-carav...",
+            "url": "https://ux-caravan.connpass.com/event/279043/",
+            "title": "「売れないリスクを最小化！新規事業アイデアの発想＆検証フレームワーク」#43 | UX CARAVAN グループの新着イベント",
+            "summary": "開催日時: 2023/04/18 12:00 ～ 12:45<br />開催場所: オンライン<br /><br /><h1><strong>売れないリスクを最小化！新規事業アイデアの発想＆検証フレームワーク</strong></h1> <p>自社の新規事業開発を担当している方向けに、「生活者の日常的なシーンを起点にアイデアを発想し、ユーザーの新しい体験として具体化していくフレームワーク」をご紹介...",
+            "date_modified": "2023-03-24T08:28:54.000Z",
+            "date_published": "2023-03-24T08:28:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「売れないリスクを最小化！新規事業アイデアの発想＆検証フレームワーク」#43",
+                "blogTitle": "UX CARAVAN グループの新着イベント",
+                "blogLink": "https://ux-caravan.connpass.com/",
+                "blogLinkMd5Hash": "f7b3f805331e185523698d4d85f362d5"
+            }
+        },
+        {
+            "id": "https://sqlserver.connpass.com/event/279002/",
+            "content_html": "開催日時: 2023/04/14 12:15 ～ 12:45<br />開催場所: Teams Online Meeting<br /><br /><h1><strong>Azure Data &amp; AI Tech Lunchとは</strong></h1> <hr> <p>Azure における Data &amp; AI の領域を主なトピックとする、カジュアル＆フリースタイルなショートセッションです。 Microsoftのソリューションアーキテクトが参加者の方と共にAzure Data &amp; AIのサービスを学びます。 月2回、12:15〜12:45 にお届け。ランチを食べながらお気軽にご参加ください。</p> <h1><strong>過去のテーマ</strong></h1> <hr> <ul> <li>Synapseのコンポーネントをデータ基盤の最新アーキテクチャと併せて学ぼう</li> <li>Azure OpenAI Serviceについて解説！</li> <li>Microsoft Ignite で発表された最新のData＆AIサービスは？</li> <li>スト...",
+            "url": "https://sqlserver.connpass.com/event/279002/",
+            "title": "【MS社員と学ぶ】32nd Azure Data and AI Tech Lunch | JSSUG (Japan SQL Server User Group) グループの新着イベント",
+            "summary": "開催日時: 2023/04/14 12:15 ～ 12:45<br />開催場所: Teams Online Meeting<br /><br /><h1><strong>Azure Data &amp; AI Tech Lunchとは</strong></h1> <hr> <p>Azure における Data &amp; AI の領域を主なトピックとする、カジュアル＆フリースタイルなショートセッ...",
+            "date_modified": "2023-03-24T04:51:57.000Z",
+            "date_published": "2023-03-24T04:51:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【MS社員と学ぶ】32nd Azure Data and AI Tech Lunch",
+                "blogTitle": "JSSUG (Japan SQL Server User Group) グループの新着イベント",
+                "blogLink": "https://sqlserver.connpass.com/",
+                "blogLinkMd5Hash": "16737af811879bc77662da7a1cc11632"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/278457/",
+            "content_html": "開催日時: 2023/03/29 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p> <p>詳細は <a href=\"https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b\" rel=\"nofollow\">ゆめみ・オープンハンドブック</a> をご覧ください。</p> <h4>オンライン開催</h4> <p>Zoom を使ったオンライン開催になりますけれど...",
+            "url": "https://yumemi.connpass.com/event/278457/",
+            "title": "熊谷さんのやさしいSwift勉強会 #232 #YUMEMI.grow | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/29 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <...",
+            "date_modified": "2023-03-24T04:00:57.000Z",
+            "date_published": "2023-03-24T04:00:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "熊谷さんのやさしいSwift勉強会 #232 #YUMEMI.grow",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278801/",
+            "content_html": "開催日時: 2023/04/20 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>ChatGPTの台頭もあり、サービスに機械学習を取り入れている企業は増えています。 機械学習モデルは一度作って終わりではなく、運用していきながら再学習・最新性を保っていく必要があります。また、良い学習モデルは他のサービスにも組み込むことを検討することもあるでしょう。</p> <p>本イベントでは、DeNAでMLチームグループマネージャの藤原さんとMLOpsのツールを提供されているWeights &amp; Biases Japanのシバタさんをお招きして、DeNAでのMLOpsや組織、Weights &amp; Biases として複数社見ている中での課題や解決策についてお話しいただきます。</p> <h2>🕖タイムテーブル</h2> <table> <thead> <tr> <th align=\"left\">時間</th> <th align=\"left\">セッションタイトル</th> </tr> </thead> <tbody> ...",
+            "url": "https://findy.connpass.com/event/278801/",
+            "title": "機械学習モデルの継続的改善と運用課題 ~ DeNAとWeights & Biasesに聞く~ | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/20 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>ChatGPTの台頭もあり、サービスに機械学習を取り入れている企業は増えています。 機械学習モデルは一度作って終わりではなく、運用していきながら再学習・最新性を保っていく必要があります。また、良い学習モデルは他のサービスにも組み込むことを検討するこ...",
+            "date_modified": "2023-03-24T03:16:41.000Z",
+            "date_published": "2023-03-24T03:16:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "機械学習モデルの継続的改善と運用課題 ~ DeNAとWeights & Biasesに聞く~",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://peer-quest.connpass.com/event/278275/",
+            "content_html": "開催日時: 2023/04/20 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>周りの人のPM業務、皆どこまでやっているか知りたくありませんか？</h1> <p>学びが多い！とご好評いただいている <a href=\"https://twitter.com/search?q=%23%E9%96%8B%E7%99%BAPM%E5%8B%89%E5%BC%B7%E4%BC%9A&amp;src=typed_query\" rel=\"nofollow\">#開発PM勉強会</a> の第19回目！ </p> <p>今回は、10以上のBtoB SaaSを提供する <a href=\"https://cloudcircus.jp/\" rel=\"nofollow\">クラウドサーカス株式会社さま</a> とのテーマ協賛で、<br> <strong>PMのはみ出し領域の事例、どこまで対応すべきか</strong> 、を語ります！ </p> <p>CSとPMの兼務、エンジニア出身PM、PM(PdM)しながらのプロジェクトマネジメントなど…<br> まずはリアルな現場で...",
+            "url": "https://peer-quest.connpass.com/event/278275/",
+            "title": "それってPM業務？みんなの組織のPM担当範囲を聞いてみよう【開発PM勉強会 vol.19】 | 開発PM勉強会 グループの新着イベント",
+            "summary": "開催日時: 2023/04/20 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>周りの人のPM業務、皆どこまでやっているか知りたくありませんか？</h1> <p>学びが多い！とご好評いただいている <a href=\"https://twitter.com/search?q=%23%E9%96%8B%E7%99%BAPM%E5%8B%89%E5%BC%B...",
+            "date_modified": "2023-03-24T02:42:44.000Z",
+            "date_published": "2023-03-24T02:42:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "それってPM業務？みんなの組織のPM担当範囲を聞いてみよう【開発PM勉強会 vol.19】",
+                "blogTitle": "開発PM勉強会 グループの新着イベント",
+                "blogLink": "https://peer-quest.connpass.com/",
+                "blogLinkMd5Hash": "2fa9538583115469871942e79426d7a5"
+            }
+        },
+        {
+            "id": "https://k8sjp.connpass.com/event/278224/",
+            "content_html": "開催日時: 2023/04/26 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><p>1 オンライン配信について<br> 今回は下記 YouTube Live でのオンライン開催で当日「19:00」から開始となります。<br> - <a href=\"https://youtube.com/live/DczWeNL-4-A\" rel=\"nofollow\">https://youtube.com/live/DczWeNL-4-A</a></p> <p>2 質疑について<br> 質疑には slido <code>#k8sjp57</code> を利用します。質疑のなかから主催側でいくつか選択して代理で登壇者に質問します。<br> - <a href=\"https://app.sli.do/event/cNZhm6Jm64ERsMPHpr2v7N\" rel=\"nofollow\">https://app.sli.do/event/cNZhm6Jm64ERsMPHpr2v7N</a></p> <hr> <blockquote> <p>Kubernetes Me...",
+            "url": "https://k8sjp.connpass.com/event/278224/",
+            "title": "Kubernetes Meetup Tokyo #57 | Kubernetes Meetup Tokyo グループの新着イベント",
+            "summary": "開催日時: 2023/04/26 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><p>1 オンライン配信について<br> 今回は下記 YouTube Live でのオンライン開催で当日「19:00」から開始となります。<br> - <a href=\"https://youtube.com/live/DczWeNL-4-A\" rel=\"nofollow\">htt...",
+            "date_modified": "2023-03-24T02:11:46.000Z",
+            "date_published": "2023-03-24T02:11:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Kubernetes Meetup Tokyo #57",
+                "blogTitle": "Kubernetes Meetup Tokyo グループの新着イベント",
+                "blogLink": "https://k8sjp.connpass.com/",
+                "blogLinkMd5Hash": "76378ea7829d8cb28da5485930694787"
+            }
+        },
+        {
+            "id": "https://forkwell.connpass.com/event/278266/",
+            "content_html": "開催日時: 2023/04/13 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>📝 開催概要</h1> <p><strong>「つぎの一歩が見つかる、気づきと学びの場」 Forkwell Library シリーズ 第22弾</strong></p> <p>これまで Forkwell のイベントで登壇されたエキスパートの方々は、先達が記した書籍から「気づき」を得て実践し、振り返り、再現性のある「学び」として身に付けていく中で、実績を築いてこられました。</p> <p>しかし、日々限られた時間の中で知識や情報をアップデートし続けるのはそう簡単ではありません。 Forkwell Library では、著者・訳者・実践者らを登壇者として招き、そんな思いを抱えた開発者の皆さまが「学びのきっかけ」を得られる勉強会を目指します。</p> <p>これまでWebアプリケーションの開発で、セキュリティは「バックエンドの仕事」というイメージの強い領域でした。しかし、アプリケーションの安全性を高めるためには、近年フロントエンドエンジニアにも、セキュリティの基礎知...",
+            "url": "https://forkwell.connpass.com/event/278266/",
+            "title": "フロントエンド開発のためのセキュリティ入門- Forkwell Library #22 | Forkwell Community グループの新着イベント",
+            "summary": "開催日時: 2023/04/13 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>📝 開催概要</h1> <p><strong>「つぎの一歩が見つかる、気づきと学びの場」 Forkwell Library シリーズ 第22弾</strong></p> <p>これまで Forkwell のイベントで登壇されたエキスパートの方々は、先達が記した書籍から「気...",
+            "date_modified": "2023-03-24T02:00:57.000Z",
+            "date_published": "2023-03-24T02:00:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "フロントエンド開発のためのセキュリティ入門- Forkwell Library #22",
+                "blogTitle": "Forkwell Community グループの新着イベント",
+                "blogLink": "https://forkwell.connpass.com/",
+                "blogLinkMd5Hash": "f0ea9815c8cca250c60482b476a304ca"
+            }
+        },
+        {
+            "id": "https://mercari.connpass.com/event/278911/",
+            "content_html": "開催日時: 2023/04/04 19:00 ～ 20:20<br />開催場所: オンライン<br /><br /><h2>メルペイ QA Summer Training Camp 2023 説明会概要</h2> <p>“メルペイ QA Summer Training Camp 2023”は、メルペイの「あんしん・安全」を支えるためのQA（Quality Assurance:品質保証）を学び、実践する、学生限定のサマーインターンプログラムです。 QAはどのようなプロダクトや組織にも必要な機能であり役割です。近年では、デジタルトランスフォーメーション(DX)などの変革が活発化している背景からも需要は高まる一方ですが、ソフトウェアの品質保証を学べる教育機関は決して多くはありません。コンピューターサイエンスのバックグラウンドがない方でも、メルペイの描く「なめらかな社会」を実現するためのプロダクト開発に関わりたい方であれば、誰でも受けられる育成プログラムです。</p> <p>応募を検討している方、選考プロセスやプログラムの内容について質問がある方向けに、運営事務局のメンバーが説明会を実施しま...",
+            "url": "https://mercari.connpass.com/event/278911/",
+            "title": "[最終開催] メルペイ QA Summer Training Camp 2023 オンライン説明会 | メルカリ／Mercari グループの新着イベント",
+            "summary": "開催日時: 2023/04/04 19:00 ～ 20:20<br />開催場所: オンライン<br /><br /><h2>メルペイ QA Summer Training Camp 2023 説明会概要</h2> <p>“メルペイ QA Summer Training Camp 2023”は、メルペイの「あんしん・安全」を支えるためのQA（Quality Assurance:品質保証）を学び、実...",
+            "date_modified": "2023-03-24T00:33:19.000Z",
+            "date_published": "2023-03-24T00:33:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[最終開催] メルペイ QA Summer Training Camp 2023 オンライン説明会",
+                "blogTitle": "メルカリ／Mercari グループの新着イベント",
+                "blogLink": "https://mercari.connpass.com/",
+                "blogLinkMd5Hash": "8e179226b24a7273a67303e963f37a93"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278840/",
+            "content_html": "開催日時: 2023/04/06 13:00 ～ 2023/04/07 15:30<br />開催場所: オンライン<br /><br /><p><strong>【データベース管理者・設計者向け無料トレーニング】</strong></p> <p><strong>Microsoft Azure Virtual Training Day: ハイブリッド インフラの実装 </strong></p> <p>. <strong>詳細・お申込はこちら：<a href=\"https://aka.ms/AHI-0406REG-connpass\" rel=\"nofollow\">https://aka.ms/AHI-0406REG-connpass</a></strong></p> <p>※ 本トレーニングは英語の音声・コンテンツに日本語字幕でのご提供となります。</p> <p>(Q&amp;Aは、Chatにて日本語で対応いたします。)</p> <p>※登録締切は、イベント1日目開始時刻の48時間前となります</p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承くだ...",
+            "url": "https://microsoft-events.connpass.com/event/278840/",
+            "title": "Microsoft Training Day: ハイブリッド インフラの実装 | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 13:00 ～ 2023/04/07 15:30<br />開催場所: オンライン<br /><br /><p><strong>【データベース管理者・設計者向け無料トレーニング】</strong></p> <p><strong>Microsoft Azure Virtual Training Day: ハイブリッド インフラの実装 </strong></p> <p...",
+            "date_modified": "2023-03-23T08:01:02.000Z",
+            "date_published": "2023-03-23T08:01:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Day: ハイブリッド インフラの実装",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278936/",
+            "content_html": "開催日時: 2023/04/12 13:00 ～ 2023/04/13 15:15<br />開催場所: (場所未定)<br /><br /><p><strong>Microsoft Security Virtual Training Day: 脅威に対する防御とクラウド環境の保護</strong></p> <p><strong>詳細・お申込はこちら： <a href=\"https://aka.ms/SDS-0412REG-connpass\" rel=\"nofollow\">https://aka.ms/SDS-0412REG-connpass</a></strong></p> <p>※登録締切は、各イベントの2日前の16:00となります。</p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p><strong>【セキュリティ運用ご担当者向けの無料トレーニング】</strong></p> <p>Microsoft Defender と Microsoft Sentinel を使用して、セキュリティ アラートの高度な捜索、検出...",
+            "url": "https://microsoft-events.connpass.com/event/278936/",
+            "title": "Microsoft Training Day: 脅威に対する防御とクラウド環境の保護 | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/12 13:00 ～ 2023/04/13 15:15<br />開催場所: (場所未定)<br /><br /><p><strong>Microsoft Security Virtual Training Day: 脅威に対する防御とクラウド環境の保護</strong></p> <p><strong>詳細・お申込はこちら： <a href=\"https://aka.m...",
+            "date_modified": "2023-03-23T08:01:02.000Z",
+            "date_published": "2023-03-23T08:01:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Day: 脅威に対する防御とクラウド環境の保護",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://cartaholdings.connpass.com/event/278923/",
+            "content_html": "開催日時: 2023/04/13 17:00 ～ 17:45<br />開催場所: オンライン<br /><br /><h2>対象</h2> <p>本イベントは<strong>2025年3月に卒業予定の大学3年生、大学院修士1年生、高専本科4年生、高専専攻科1年生、専門学校生(文理は不問)</strong>を対象にした、オンラインイベントです。</p> <h4>▼『Treasure』はこんな方におすすめ</h4> <p>・現場の技術レベルを知りたい！<br> ・プロのエンジニアからコードレビューしてもらいたい！<br> ・チーム開発してみたい！<br> ・同世代のスゴイエンジニアと仲間になりたい！ </p> <p>すでにインターンシップ『Treasure』にエントリーした方でも、本イベントに申し込むことができます。<br> また、connpassの他、サポーターズなどの各社インターンサイトにも掲載をしております。</p> <h2>サマーインターンシップ『Treasure』とは？</h2> <p>TreasureはCARTA HOLDINGS（旧：VOYAGE GROUP）のもの創りのエ...",
+            "url": "https://cartaholdings.connpass.com/event/278923/",
+            "title": "4/13(木)開催【25卒】サマーインターン『Treasure』を大解剖！スタートダッシュ座談会 | CARTA HOLDINGS グループの新着イベント",
+            "summary": "開催日時: 2023/04/13 17:00 ～ 17:45<br />開催場所: オンライン<br /><br /><h2>対象</h2> <p>本イベントは<strong>2025年3月に卒業予定の大学3年生、大学院修士1年生、高専本科4年生、高専専攻科1年生、専門学校生(文理は不問)</strong>を対象にした、オンラインイベントです。</p> <h4>▼『Treasure』はこんな方にお...",
+            "date_modified": "2023-03-23T05:35:16.000Z",
+            "date_published": "2023-03-23T05:35:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "4/13(木)開催【25卒】サマーインターン『Treasure』を大解剖！スタートダッシュ座談会",
+                "blogTitle": "CARTA HOLDINGS グループの新着イベント",
+                "blogLink": "https://cartaholdings.connpass.com/",
+                "blogLinkMd5Hash": "fd5ad9de1c96323f4c0b0de34a3e219c"
+            }
+        },
+        {
+            "id": "https://devrel.connpass.com/event/278918/",
+            "content_html": "開催日時: 2023/03/28 17:30 ～ 18:30<br />開催場所: オンライン<br /><br /><h1>DevRel/Radio #106のテーマは「もらって嬉しいノベルティ」です！</h1> <p>配信はYouTube Liveなどで行いますが、画面は見なくても大丈夫です。耳だけで楽しめるコンテンツを目指します！</p> <p>DevRel/Radioは耳だけで楽しめるDevRelコンテンツです。<a href=\"https://forms.gle/LmiaA82uj3FqvFdp8\" rel=\"nofollow\">リスナーの方々からの投稿を大募集しています</a>！</p> <p>106回目となる今回のテーマは「<a href=\"https://forms.gle/LmiaA82uj3FqvFdp8\" rel=\"nofollow\">もらって嬉しいノベルティ</a>」です。徐々にエキスポやオフラインイベントが復活し、ノベルティを手にする機会も増えそうです。そんな中、あなたがもらって嬉しかった（嬉しい）ノベルティは何ですか？</p> <p>そのほか、今後扱ってほし...",
+            "url": "https://devrel.connpass.com/event/278918/",
+            "title": "DevRel/Radio #106 〜もらって嬉しいノベルティ〜 | DevRel Meetup in Tokyo グループの新着イベント",
+            "summary": "開催日時: 2023/03/28 17:30 ～ 18:30<br />開催場所: オンライン<br /><br /><h1>DevRel/Radio #106のテーマは「もらって嬉しいノベルティ」です！</h1> <p>配信はYouTube Liveなどで行いますが、画面は見なくても大丈夫です。耳だけで楽しめるコンテンツを目指します！</p> <p>DevRel/Radioは耳だけで楽しめるDe...",
+            "date_modified": "2023-03-23T04:38:31.000Z",
+            "date_published": "2023-03-23T04:38:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DevRel/Radio #106 〜もらって嬉しいノベルティ〜",
+                "blogTitle": "DevRel Meetup in Tokyo グループの新着イベント",
+                "blogLink": "https://devrel.connpass.com/",
+                "blogLinkMd5Hash": "88b9c48f579a5617852afb83d751abb3"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278392/",
+            "content_html": "開催日時: 2023/04/04 12:00 ～ 13:15<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>1,000名以上の方にお申し込みいただき、大好評の<a href=\"https://findy.connpass.com/event/276736/\" rel=\"nofollow\">ChatGPT選手権！エンジニアリングに組み込んでみたらこうなりました LT大会</a>。 日々様々な用途で活用が進むChatGPT。先日GPT-4もリリースされ、具体的に開発現場での利用もさらに促進され、話題が尽きません。</p> <p>今回も前回に引き続き、「業務/個人開発/プロダクトにGPTを取り組んでみた事例」をテーマにして、LT会を開催いたします。 サービスへの導入を進めている方、個人開発においてChatGPTを組み込まれた方、この場を利用してぜひご発表ください！</p> <h2>🕖タイムテーブル</h2> <p>※LT5min + 質疑応答,バッファ</p> <table> <thead> <tr> <th align=\"left\">時間</t...",
+            "url": "https://findy.connpass.com/event/278392/",
+            "title": "【第二回】ChatGPT選手権！エンジニアリングに組み込んでみましたLT大会 | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/04 12:00 ～ 13:15<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>1,000名以上の方にお申し込みいただき、大好評の<a href=\"https://findy.connpass.com/event/276736/\" rel=\"nofollow\">ChatGPT選手権！エンジニアリングに組み込んでみたらこうなりま...",
+            "date_modified": "2023-03-23T03:40:24.000Z",
+            "date_published": "2023-03-23T03:40:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【第二回】ChatGPT選手権！エンジニアリングに組み込んでみましたLT大会",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://forkwell.connpass.com/event/278797/",
+            "content_html": "開催日時: 2023/04/11 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>📝 開催概要</h1> <p><strong>── 「変化を知り、変化から学ぶ」 CHANGEシリーズ。</strong></p> <p>会社や個人は様々な変化に直面します。このイベントではそんな「変化」にフォーカスをあてた勉強会です。 会社であれば技術スタックのリプレイスやCTOの交代、そもそも事業のピボットなど。個人であれば転職やロールチェンジ、一つのアウトプットをきっかけに講演依頼などが舞い込むようになったなど、世の中は変化に溢れています。 本シリーズでは変化のきっかけや意思決定に至るまでに考えたことや、変化を経て良かったことや苦労していることなど幅広く変化を深掘りしていきます。</p> <p>シリーズ第一回目の今回は、CookpadのCTO交代に着目した勉強会を開催します。前CTOの成田一生さんと現CTOの星北斗さんをお招きし、クックパッド社のCTO交代の狙いや組織の今後について語っていただきます。</p> <h4>🧑‍💻 こんなエンジニアにおすす...",
+            "url": "https://forkwell.connpass.com/event/278797/",
+            "title": "CHANGE vol.1 〜CookpadのCTO交代〜 | Forkwell Community グループの新着イベント",
+            "summary": "開催日時: 2023/04/11 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>📝 開催概要</h1> <p><strong>── 「変化を知り、変化から学ぶ」 CHANGEシリーズ。</strong></p> <p>会社や個人は様々な変化に直面します。このイベントではそんな「変化」にフォーカスをあてた勉強会です。 会社であれば技術スタックのリプレイ...",
+            "date_modified": "2023-03-23T03:16:01.000Z",
+            "date_published": "2023-03-23T03:16:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CHANGE vol.1 〜CookpadのCTO交代〜",
+                "blogTitle": "Forkwell Community グループの新着イベント",
+                "blogLink": "https://forkwell.connpass.com/",
+                "blogLinkMd5Hash": "f0ea9815c8cca250c60482b476a304ca"
+            }
+        },
+        {
+            "id": "https://forkwell.connpass.com/event/278313/",
+            "content_html": "開催日時: 2023/04/06 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><p>このイベントでは、2023年1月に開催され、参加者満足度で<strong>平均9.2点（満点10点）</strong>という高評価を受けた<a href=\"https://forkwell.connpass.com/event/271288/\" rel=\"nofollow\">「ITエンジニアのための転職学」</a>の登壇内容に少しだけアップデートを加えてお届けします。</p> <h1>📝 開催概要</h1> <p>キャリアを考える上で、自分の市場価値を客観的に知っておくことはとても大事です。<br> このイベントでは「<strong>もしかしたら、転職を考えたほうがいいのかも</strong>」と思ったことがある方に対して、<strong>転職活動を始める前に知っておいたほうがいい情報</strong>を提供し、<strong>自分らしいキャリアを選択できるきっかけ</strong>となることを目指します。<br> <br> 登壇するのはITエンジニアのための転...",
+            "url": "https://forkwell.connpass.com/event/278313/",
+            "title": "ITエンジニアのための転職学v.1.1 ー Webエンジニアの市場価値、これまでの10年とこれから | Forkwell Community グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><p>このイベントでは、2023年1月に開催され、参加者満足度で<strong>平均9.2点（満点10点）</strong>という高評価を受けた<a href=\"https://forkwell.connpass.com/event/271288/\" rel=\"nofollow\">...",
+            "date_modified": "2023-03-23T02:00:59.000Z",
+            "date_published": "2023-03-23T02:00:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ITエンジニアのための転職学v.1.1 ー Webエンジニアの市場価値、これまでの10年とこれから",
+                "blogTitle": "Forkwell Community グループの新着イベント",
+                "blogLink": "https://forkwell.connpass.com/",
+                "blogLinkMd5Hash": "f0ea9815c8cca250c60482b476a304ca"
+            }
+        },
+        {
+            "id": "https://jawsug-cdk.connpass.com/event/278205/",
+            "content_html": "開催日時: 2023/05/20 13:00 ～ 18:00<br />開催場所: 東京都品川区上大崎 3-1-1 目黒セントラルスクエア 21階<br /><br /><h1>AWS CDK Conference Japan 2023 開催！</h1> <h2>開催概要</h2> <p>JAWS-UG CDK支部の設立からもうすぐ早1年がたちます。これを祝して今年もAWS CDK Conferenceを開催します！ 1年経ってCDKの使用者も増えたかと思いますが、まだまだ盛り上げていきたいなと思ってます！今回のイベントでは初心者/上級者ともに楽しめるイベントをコンセプトとしているので、CDKまだ触ったことないなあという方から、CDK歴ベテランの方まで奮って参加いただけると嬉しいです。</p> <p>また今回は初めての試みとしてオフライン会場も用意しております！登壇者の発表ももちろんですが、それ以外の催しも用意する予定なので関東近隣の方やご都合つく方は是非ご参加いただけますと幸いです。現地で一緒にCDKについて学び、語りましょう！</p> <h2>登壇者募集</h2> <p>今回のAW...",
+            "url": "https://jawsug-cdk.connpass.com/event/278205/",
+            "title": "AWS CDK Conference Japan 2023 | JAWS-UG CDK支部 グループの新着イベント",
+            "summary": "開催日時: 2023/05/20 13:00 ～ 18:00<br />開催場所: 東京都品川区上大崎 3-1-1 目黒セントラルスクエア 21階<br /><br /><h1>AWS CDK Conference Japan 2023 開催！</h1> <h2>開催概要</h2> <p>JAWS-UG CDK支部の設立からもうすぐ早1年がたちます。これを祝して今年もAWS CDK Confere...",
+            "date_modified": "2023-03-22T12:13:03.000Z",
+            "date_published": "2023-03-22T12:13:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWS CDK Conference Japan 2023",
+                "blogTitle": "JAWS-UG CDK支部 グループの新着イベント",
+                "blogLink": "https://jawsug-cdk.connpass.com/",
+                "blogLinkMd5Hash": "6162badcf31917a21f9db4b27ee8f22a"
+            }
+        },
+        {
+            "id": "https://jawsug-container.connpass.com/event/278191/",
+            "content_html": "開催日時: 2023/04/24 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>JAWS-UG コンテナ支部 #23 春のFinch特集</h1> <h1>⚠️ LTスピーカー枠について⚠️</h1> <p>今回のスピーカー枠は、「Finch または Docker Desktop をいろいろやってみた！」が題材な皆さま向けとなっています✨</p> <p>あなたのチャレンジを世のエンジニアと共有するチャンスです！ 積極的なLT登壇のお申込みをお待ちしております 🙏</p> <h1>開催概要</h1> <p>日時：2023年4月24日 (月)<br>  19:00 〜 コンテナ支部 開始 <br> 場所：YouTube Live（オンライン）</p> <h1>タイムテーブル</h1> <h1>タイムスケジュール</h1> <table> <thead> <tr> <th align=\"center\">開始</th> <th align=\"center\">終了</th> <th>タイトル</th> <th>登壇者</th> <th>概要</th...",
+            "url": "https://jawsug-container.connpass.com/event/278191/",
+            "title": "JAWS-UG コンテナ支部 #23 春のFinch特集 | JAWS-UG コンテナ支部 グループの新着イベント",
+            "summary": "開催日時: 2023/04/24 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>JAWS-UG コンテナ支部 #23 春のFinch特集</h1> <h1>⚠️ LTスピーカー枠について⚠️</h1> <p>今回のスピーカー枠は、「Finch または Docker Desktop をいろいろやってみた！」が題材な皆さま向けとなっています✨</p> <p...",
+            "date_modified": "2023-03-22T11:00:11.000Z",
+            "date_published": "2023-03-22T11:00:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "JAWS-UG コンテナ支部 #23 春のFinch特集",
+                "blogTitle": "JAWS-UG コンテナ支部 グループの新着イベント",
+                "blogLink": "https://jawsug-container.connpass.com/",
+                "blogLinkMd5Hash": "3c8cf2f9dba5b8c896caa178608e3304"
+            }
+        },
+        {
+            "id": "https://smarthr.connpass.com/event/277003/",
+            "content_html": "開催日時: 2023/04/06 19:30 ～ 20:30<br />開催場所: オンライン<br /><br /><h2>UXライターが挑戦！画像のALT即興ライティング大会！</h2> <p>みなさん、「画像の代替テキスト（ALT = Alternative text）」をご存知でしょうか？</p> <blockquote> <p>画像の代替テキストは、画面上のビジュアルイメージの代替となるテキストです。 代替テキストを設定することで、画像を直接見ないユーザーにも画像が持つ情報を提供できます。 ウェブサイトのページやブログなどの記事、プロダクトのなかで画像を使うときは、代替テキストをつけることを検討してください。<br> （<a href=\"https://smarthr.design/accessibility/alternative-text/\" rel=\"nofollow\">画像の代替テキスト｜SmartHR Design System</a>）</p> </blockquote> <p>上記の通り、ALTの設定はインターネットを利用する人であれば、誰でもすぐに始められるア...",
+            "url": "https://smarthr.connpass.com/event/277003/",
+            "title": "UXライターが挑戦！画像のALT即興ライティング大会 | 株式会社SmartHR グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 19:30 ～ 20:30<br />開催場所: オンライン<br /><br /><h2>UXライターが挑戦！画像のALT即興ライティング大会！</h2> <p>みなさん、「画像の代替テキスト（ALT = Alternative text）」をご存知でしょうか？</p> <blockquote> <p>画像の代替テキストは、画面上のビジュアルイメージの代替となる...",
+            "date_modified": "2023-03-22T08:45:07.000Z",
+            "date_published": "2023-03-22T08:45:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "UXライターが挑戦！画像のALT即興ライティング大会",
+                "blogTitle": "株式会社SmartHR グループの新着イベント",
+                "blogLink": "https://smarthr.connpass.com/",
+                "blogLinkMd5Hash": "f1caeebca717e3a2ce0d9f2a312f0760"
+            }
+        },
+        {
+            "id": "https://linedevelopercommunity.connpass.com/event/277672/",
+            "content_html": "開催日時: 2023/04/04 19:00 ～ 21:00<br />開催場所: 新宿近辺<br /><br /><h1>イベント概要</h1> <p>主催：LINE Developer Community</p> <p>店舗、エンタメ、マーケティング支援などLINEを使った様々なビジネスソリューションが登場し、本格的なLINE API開発ができる開発者の需要も増えています。本格的なシステムでは、シンプルなBotやLIFFアプリと異なり、システム全体の構成をイメージしながら開発していくことが必要になります。そこで、本ハンズオンでは、本格的なマーケティングツールにも実装されている予約配信機能を、AWSとLINE Messaging APIで再現するシステムを開発します。更なるステップアップを目指すLINE API開発者の皆様、ぜひご参加ください！</p> <p>※ 飲食提供はありませんが、飲料の持ち込みは可とします。ただし、マスクを着用していない状態での発言はお控え下さい。</p> <h1>想定する参加者</h1> <ul> <li>さらに本格的なアプリを開発したいLINE API開発...",
+            "url": "https://linedevelopercommunity.connpass.com/event/277672/",
+            "title": "[自動でLTVxx倍!?]AWSでLINEが勝手にリピーターを創出する予約配信システムを作ろう! | LINE Developer Community グループの新着イベント",
+            "summary": "開催日時: 2023/04/04 19:00 ～ 21:00<br />開催場所: 新宿近辺<br /><br /><h1>イベント概要</h1> <p>主催：LINE Developer Community</p> <p>店舗、エンタメ、マーケティング支援などLINEを使った様々なビジネスソリューションが登場し、本格的なLINE API開発ができる開発者の需要も増えています。本格的なシステムでは...",
+            "date_modified": "2023-03-22T06:01:25.000Z",
+            "date_published": "2023-03-22T06:01:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[自動でLTVxx倍!?]AWSでLINEが勝手にリピーターを創出する予約配信システムを作ろう!",
+                "blogTitle": "LINE Developer Community グループの新着イベント",
+                "blogLink": "https://linedevelopercommunity.connpass.com/",
+                "blogLinkMd5Hash": "4a7127019d90f1cad092d9bad98d3306"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278455/",
+            "content_html": "開催日時: 2023/04/14 19:00 ～ 21:30<br />開催場所: 福岡県福岡市博多区博多駅中央街１−１<br /><br /><h2>フロントエンドで関わっている/関わった開発案件について語りませんか？</h2> <p>自分たちが関わってきた開発案件の中で、これは工夫した！頑張った！めちゃくちゃ結果が出た！といった案件。周囲の人で共有する機会はあっても、他のエンジニアの方におおっぴらげにいう機会は少ないもの。<br></p> <p>本イベントでは、自分の\"自慢\"経験をLTと会話を通じて、参加者間で共有し合い、明日からの現場での実装に活かせる場となることを目指します。</p> <h2>🎈開催概要</h2> <p><span style=\"font-size: 130%; color: black;\"> 📆開催日時：2023年4月14日（金）19:00-21:30 <span style=\"font-size: 130%; color: black;\"> </span></span></p> <p><span style=\"font-size: 130%; color...",
+            "url": "https://findy.connpass.com/event/278455/",
+            "title": "【オフライン@福岡】俺たちのフロントエンド”大”自慢大会 | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/14 19:00 ～ 21:30<br />開催場所: 福岡県福岡市博多区博多駅中央街１−１<br /><br /><h2>フロントエンドで関わっている/関わった開発案件について語りませんか？</h2> <p>自分たちが関わってきた開発案件の中で、これは工夫した！頑張った！めちゃくちゃ結果が出た！といった案件。周囲の人で共有する機会はあっても、他のエンジニアの方におおっ...",
+            "date_modified": "2023-03-22T05:19:28.000Z",
+            "date_published": "2023-03-22T05:19:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【オフライン@福岡】俺たちのフロントエンド”大”自慢大会",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://ux-caravan.connpass.com/event/278733/",
+            "content_html": "開催日時: 2023/04/13 12:00 ～ 12:45<br />開催場所: オンライン<br /><br /><h1><strong>ユーザーテストの進め方＆現場でつまずく7つのポイントとは</strong></h1> <p>今回のテーマは「UXデザインを始めたいチームのためのユーザーテストの進め方」です。自社製品・サービスのUI/UXデザインを担当しているチームにおけるDIYでの実施を想定した『ユーザーテスト』の進め方について解説します。</p> <p><strong>※過去のセミナー「UXデザインを始めたいチームのためのユーザーテストの進め方」に参加された方は、同等の内容になりますのでご注意ください。（復習としてのご参加は歓迎します！）</strong></p> <h3>UX CARAVANとは</h3> <p>自社でUXデザインを実践するのに役立つノウハウ、事例、トレンド情報をお届けしています。 セミナー開催100回、メンバーも1,000人を超えました。 ぜひ、グループ（ <a href=\"https://ux-caravan.connpass.com/\" rel=\"no...",
+            "url": "https://ux-caravan.connpass.com/event/278733/",
+            "title": "はじめてのUXデザイン「ユーザーテストの進め方＆現場でつまずく7つのポイントとは」#17 | UX CARAVAN グループの新着イベント",
+            "summary": "開催日時: 2023/04/13 12:00 ～ 12:45<br />開催場所: オンライン<br /><br /><h1><strong>ユーザーテストの進め方＆現場でつまずく7つのポイントとは</strong></h1> <p>今回のテーマは「UXデザインを始めたいチームのためのユーザーテストの進め方」です。自社製品・サービスのUI/UXデザインを担当しているチームにおけるDIYでの実施を想...",
+            "date_modified": "2023-03-22T04:50:10.000Z",
+            "date_published": "2023-03-22T04:50:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "はじめてのUXデザイン「ユーザーテストの進め方＆現場でつまずく7つのポイントとは」#17",
+                "blogTitle": "UX CARAVAN グループの新着イベント",
+                "blogLink": "https://ux-caravan.connpass.com/",
+                "blogLinkMd5Hash": "f7b3f805331e185523698d4d85f362d5"
+            }
+        },
+        {
+            "id": "https://jdla.connpass.com/event/278460/",
+            "content_html": "開催日時: 2023/03/31 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>本イベントの目的</h1> <p>CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会が実施するG検定およびE資格の合格者が参加する日本最大のAIコミュニティです。 本イベントは、CDLE内の「DX情報交換＋」グループ活動の一環であり、外部講師（株式会社デジタルワークフォース様）を招いて講演をお願いし、DXについての理解を深めようとするものです。DXを推進する部署に所属されている方、所属していなくてもDXに関心を持っている方など、ぜひ多くの方に参加していただきたいと考えています。</p> <h1>日時</h1> <p>2023 年 3 月 31 日（金） 19:00 〜 20:00</p> <h1>開催場所・参加申し込み</h1> <p>本イベントは Zoom によるオンラインイベントになります。 申し込み後、参加用URLが本ページ上にて確認できます。</p> <h1>スケジュール</h1> <...",
+            "url": "https://jdla.connpass.com/event/278460/",
+            "title": "【CDLE主催】DX情報交換グループ オンライン交流会#10（外部講師によるDX講演） | 日本ディープラーニング協会 グループの新着イベント",
+            "summary": "開催日時: 2023/03/31 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>本イベントの目的</h1> <p>CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会が実施するG検定およびE資格の合格者が参加する日本最大のAIコミュニティです。 本イベントは、CDLE内の「DX情報交換...",
+            "date_modified": "2023-03-22T04:48:29.000Z",
+            "date_published": "2023-03-22T04:48:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【CDLE主催】DX情報交換グループ オンライン交流会#10（外部講師によるDX講演）",
+                "blogTitle": "日本ディープラーニング協会 グループの新着イベント",
+                "blogLink": "https://jdla.connpass.com/",
+                "blogLinkMd5Hash": "e429726c8f97709e2cec8bb069308c5e"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/278227/",
+            "content_html": "開催日時: 2023/03/27 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p> <p>詳細は <a href=\"https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b\" rel=\"nofollow\">ゆめみ・オープンハンドブック</a> をご覧ください。</p> <h4>オンライン開催</h4> <p>Zoom を使ったオンライン開催になりますけれど...",
+            "url": "https://yumemi.connpass.com/event/278227/",
+            "title": "熊谷さんのやさしいSwift勉強会 #231 #YUMEMI.grow | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/27 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <...",
+            "date_modified": "2023-03-22T04:16:27.000Z",
+            "date_published": "2023-03-22T04:16:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "熊谷さんのやさしいSwift勉強会 #231 #YUMEMI.grow",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://mercari.connpass.com/event/278649/",
+            "content_html": "開催日時: 2023/04/18 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>エンジニア学生向けMercari Summer Internship 2023 オンライン説明会概要</h1> <p>今夏メルカリグループでは就業型サマーインターンシップをオンラインにて開催します！</p> <p>サマーインターンシップでは、実際に開発を行っているチームに参加し、メルカリグループに在籍するソフトウェアエンジニアとともに、フリマアプリ「メルカリ」や決済や与信サービスを提供する「メルペイ」、さらにメルカリShopsを手掛ける「ソウゾウ」の機能開発業務に挑戦していただきます。<br> <a href=\"https://apply.workable.com/mercari/j/465CE8798A/\" rel=\"nofollow\">Mercari Summer Internship 2023の詳細はこちら</a></p> <p>応募を迷っている方、選考プロセスやプログラムの内容について質問がある方に向けに説明会を実施します。 当日は新卒採用担当による選考...",
+            "url": "https://mercari.connpass.com/event/278649/",
+            "title": "【エンジニア学生向け】Mercari Summer Internship 2023 オンライン説明会 | メルカリ／Mercari グループの新着イベント",
+            "summary": "開催日時: 2023/04/18 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>エンジニア学生向けMercari Summer Internship 2023 オンライン説明会概要</h1> <p>今夏メルカリグループでは就業型サマーインターンシップをオンラインにて開催します！</p> <p>サマーインターンシップでは、実際に開発を行っているチームに参...",
+            "date_modified": "2023-03-22T02:57:44.000Z",
+            "date_published": "2023-03-22T02:57:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【エンジニア学生向け】Mercari Summer Internship 2023 オンライン説明会",
+                "blogTitle": "メルカリ／Mercari グループの新着イベント",
+                "blogLink": "https://mercari.connpass.com/",
+                "blogLinkMd5Hash": "8e179226b24a7273a67303e963f37a93"
+            }
+        },
+        {
+            "id": "https://mercari.connpass.com/event/278646/",
+            "content_html": "開催日時: 2023/04/11 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>エンジニア学生向けMercari Summer Internship 2023 オンライン説明会概要</h1> <p>今夏メルカリグループでは就業型サマーインターンシップをオンラインにて開催します！</p> <p>サマーインターンシップでは、実際に開発を行っているチームに参加し、メルカリグループに在籍するソフトウェアエンジニアとともに、フリマアプリ「メルカリ」や決済や与信サービスを提供する「メルペイ」、さらにメルカリShopsを手掛ける「ソウゾウ」の機能開発業務に挑戦していただきます。<br> <a href=\"https://apply.workable.com/mercari/j/465CE8798A/\" rel=\"nofollow\">Mercari Summer Internship 2023の詳細はこちら</a></p> <p>応募を迷っている方、選考プロセスやプログラムの内容について質問がある方に向けに説明会を実施します。 当日は新卒採用担当による選考...",
+            "url": "https://mercari.connpass.com/event/278646/",
+            "title": "【エンジニア学生向け】Mercari Summer Internship 2023 オンライン説明会 | メルカリ／Mercari グループの新着イベント",
+            "summary": "開催日時: 2023/04/11 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>エンジニア学生向けMercari Summer Internship 2023 オンライン説明会概要</h1> <p>今夏メルカリグループでは就業型サマーインターンシップをオンラインにて開催します！</p> <p>サマーインターンシップでは、実際に開発を行っているチームに参...",
+            "date_modified": "2023-03-22T02:56:27.000Z",
+            "date_published": "2023-03-22T02:56:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【エンジニア学生向け】Mercari Summer Internship 2023 オンライン説明会",
+                "blogTitle": "メルカリ／Mercari グループの新着イベント",
+                "blogLink": "https://mercari.connpass.com/",
+                "blogLinkMd5Hash": "8e179226b24a7273a67303e963f37a93"
+            }
+        },
+        {
+            "id": "https://moneyforward.connpass.com/event/277085/",
+            "content_html": "開催日時: 2023/04/12 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>お金を前へ。人生をもっと前へ。すべての働く人のために、企業の様々なバックオフィス業務を効率化するマネーフォワード クラウド。提供するサービスは多岐に渡りますが、これらのサービスを多くのデザイナーが支えています。2023年現在、70名を超えるまでに成長したマネーフォワードのデザイン組織。所属するデザイナーのスキルやバックグラウンドは多種多様です。本イベントでは、特にBtoB領域のデザイナーを中心に、キャリアをどのように考え、普段の働きからどのような成長を目指しているかをテーマに、デザイナーの生の声を深掘りしていきます。</p> <p>今回はマネーフォワードのプロダクトデザイナーの中でも特にUXリサーチ（ユーザーインタビュー、ユーザビリティテストなど）を継続しながらプロダクトの改善や機能開発に取り組んでいるデザイナーを対象に、現場でのリサーチの進め方、関係者への合意の取り方、開発プロセスでのリサーチ組み込み方など、実務でデザイナーが陥り...",
+            "url": "https://moneyforward.connpass.com/event/277085/",
+            "title": "「働く人を前へ。デザイナーのキャリアを前へ。」 | マネーフォワード グループの新着イベント",
+            "summary": "開催日時: 2023/04/12 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>お金を前へ。人生をもっと前へ。すべての働く人のために、企業の様々なバックオフィス業務を効率化するマネーフォワード クラウド。提供するサービスは多岐に渡りますが、これらのサービスを多くのデザイナーが支えています。2023年現在、70名を超えるまで...",
+            "date_modified": "2023-03-21T23:01:29.000Z",
+            "date_published": "2023-03-21T23:01:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "「働く人を前へ。デザイナーのキャリアを前へ。」",
+                "blogTitle": "マネーフォワード グループの新着イベント",
+                "blogLink": "https://moneyforward.connpass.com/",
+                "blogLinkMd5Hash": "40edcbca267c932282894c6aaca9da16"
+            }
+        },
+        {
+            "id": "https://ohayo-aws.connpass.com/event/278721/",
+            "content_html": "開催日時: 2023/03/22 09:00 ～ 10:00<br />開催場所: オンライン<br /><br /><p>人数みたいので、参加受付をconnpassでも有効にしていますが、 Twitter Spacesで実施＆公開します。いきなりこちらのURLにきていただいてかまいません。</p> <p><a href=\"https://twitter.com/i/spaces/1ypKddljkPyKW\" rel=\"nofollow\">https://twitter.com/i/spaces/1ypKddljkPyKW</a> - w/ AWSのTechメンバ </p> <h2>メイン</h2> <ul> <li> <p>週刊AWS予定 <a href=\"https://aws.amazon.com/jp/blogs/news/tag/%E9%80%B1%E5%88%8Aaws/\" rel=\"nofollow\">https://aws.amazon.com/jp/blogs/news/tag/%E9%80%B1%E5%88%8Aaws/</a></p> </li> <li> <p>...",
+            "url": "https://ohayo-aws.connpass.com/event/278721/",
+            "title": "AWSの先週ふりかえり  水曜朝9時  #ohayo_aws 2023.03.22 | AWSの先週ふりかえり #ohayo_aws グループの新着イベント",
+            "summary": "開催日時: 2023/03/22 09:00 ～ 10:00<br />開催場所: オンライン<br /><br /><p>人数みたいので、参加受付をconnpassでも有効にしていますが、 Twitter Spacesで実施＆公開します。いきなりこちらのURLにきていただいてかまいません。</p> <p><a href=\"https://twitter.com/i/spaces/1ypKddlj...",
+            "date_modified": "2023-03-21T00:14:17.000Z",
+            "date_published": "2023-03-21T00:14:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWSの先週ふりかえり  水曜朝9時  #ohayo_aws 2023.03.22",
+                "blogTitle": "AWSの先週ふりかえり #ohayo_aws グループの新着イベント",
+                "blogLink": "https://ohayo-aws.connpass.com/",
+                "blogLinkMd5Hash": "93b8eaaa07a42a114eea9ba78f90d2d7"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/275757/",
+            "content_html": "開催日時: 2023/03/31 19:00 ～ 20:30<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>This is Hack Fukuoka!</h1> <p>Hack Fukuoka is an English language general tech event for engineers in Fukuoka. We host speakers on various tech topics as well as discussions on recent developments and tech in the news. The atmosphere is casual and friendly so don't hesitate to try giving a talk!</p> <p>This time we have a special guest from Google: Andrea Wu with a talk about using Firebase to accelerate your app developm...",
+            "url": "https://engineercafe.connpass.com/event/275757/",
+            "title": "Hack Fukuoka March | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/03/31 19:00 ～ 20:30<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>This is Hack Fukuoka!</h1> <p>Hack Fukuoka is an English language general tech event for engineers in Fukuoka. We host speake...",
+            "date_modified": "2023-03-20T12:34:03.000Z",
+            "date_published": "2023-03-20T12:34:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Hack Fukuoka March",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/278507/",
+            "content_html": "開催日時: 2023/03/30 19:00 ～ 20:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>◆内容</h1> <p>四半期に一度を予定している<a href=\"https://udzura.hatenablog.jp/entry/2022/11/28/203440\" rel=\"nofollow\">OSS Halfway</a>、あるいは偉大なる<a href=\"https://oss-gate.github.io/\" rel=\"nofollow\">OSS Gate</a> につながるようなイベントを目指しています。</p> <p>OSSへのコントリビュートを行うことを目指したOSS Halfwayでしたがそれでもなおハードルが高いと思います。</p> <p>そこで、四半期に一度のイベントに向けたネタ作りやリサーチ作業のために毎月OSSに触れる時間を設けてみました。</p> <p>この時間にやっていいことはOSSを試したり、注目OSSを探してきたり、OSSコミットに至る全てが対象でとなります。</p> <p>みんなでゆるゆるネタ作...",
+            "url": "https://engineercafe.connpass.com/event/278507/",
+            "title": "Workout OSS (2023-03-30) | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/03/30 19:00 ～ 20:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>◆内容</h1> <p>四半期に一度を予定している<a href=\"https://udzura.hatenablog.jp/entry/2022/11/28/203440\" rel=\"nofollow\">OSS Halfway</a>、あるいは偉大...",
+            "date_modified": "2023-03-20T11:28:16.000Z",
+            "date_published": "2023-03-20T11:28:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Workout OSS (2023-03-30)",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/278508/",
+            "content_html": "開催日時: 2023/03/30 18:00 ～ 19:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>◆概要</h1> <p>エンジニアカフェのみなさんから「Goを使ったイベントをやってほしい」とのご要望を受けてイベントを設定してみました。</p> <p>Go言語、聞いたことあるけどどんなことに使うのかな？といったモチベーションで良いので遊びに来てください。 Go言語はかなりライブラリが充実しており、Web開発のバックエンド以外にもGUIアプリを作ったり(Shiny)、ブラウザゲームを作ったり(ebiten)、ロボットや組み込み用途(Gobot)で使っている方もおられるそうです。</p> <p>ハンズオンという形式はとりませんが、参加者次第でみんなでtour of Go(<a href=\"https://go-tour-jp.appspot.com/welcome/1)を触ったり、Goで簡単なバックエンドを作ってみたり、持ち込みの教材を解いてみたりetcetc\" rel=\"nofollow\">https://go-tour-jp.apps...",
+            "url": "https://engineercafe.connpass.com/event/278508/",
+            "title": "午後のGo (2023-03-30) | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/03/30 18:00 ～ 19:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>◆概要</h1> <p>エンジニアカフェのみなさんから「Goを使ったイベントをやってほしい」とのご要望を受けてイベントを設定してみました。</p> <p>Go言語、聞いたことあるけどどんなことに使うのかな？といったモチベーションで良いので遊びに来てく...",
+            "date_modified": "2023-03-20T11:27:14.000Z",
+            "date_published": "2023-03-20T11:27:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "午後のGo (2023-03-30)",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278382/",
+            "content_html": "開催日時: 2023/03/23 21:00 ～ 22:15<br />開催場所: オンライン<br /><br /><h2>大好評につき、録画再放送！</h2> <p>申し込みが1000人を超え大好評となりました、ChatGPTのLT選手権。多数の方から「お昼の時間帯の都合つかない」、「夜に勉強がてらじっくりみたい」というお声をいただき、お昼に参加できなかった方々向けに録画の再配信をいたします！</p> <p>リアルタイムで参加出来なかった方、当日のツイートや記事などを見て気になった方、ぜひご参加ください！ ※今回は、録画配信となるため登壇者は不参加となります。</p> <p><a href=\"https://findy.connpass.com/event/276736/\" rel=\"nofollow\">元イベントはこちら</a></p> <h1>✍️概要</h1> <p>様々な用途で活用が進むChatGPT。ここにきて、プロダクトのβ版でのリリースが増加したり、業務でも様々なシチュエーションで実際に組み込まれる方を目にします。</p> <p>今回は、「業務/個人開発/プロダクトに...",
+            "url": "https://findy.connpass.com/event/278382/",
+            "title": "【再放送】ChatGPT選手権！エンジニアリングに組み込んでみたらこうなりました LT大会 | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/03/23 21:00 ～ 22:15<br />開催場所: オンライン<br /><br /><h2>大好評につき、録画再放送！</h2> <p>申し込みが1000人を超え大好評となりました、ChatGPTのLT選手権。多数の方から「お昼の時間帯の都合つかない」、「夜に勉強がてらじっくりみたい」というお声をいただき、お昼に参加できなかった方々向けに録画の再配信をいたします！...",
+            "date_modified": "2023-03-20T09:01:44.000Z",
+            "date_published": "2023-03-20T09:01:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【再放送】ChatGPT選手権！エンジニアリングに組み込んでみたらこうなりました LT大会",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://saas-tech.connpass.com/event/278317/",
+            "content_html": "開催日時: 2023/04/19 19:00 ～ 21:00<br />開催場所: 東京都文京区本郷1丁目28-10 (本郷TKビル)<br /><br /><h1>SaaSにおけるLLMと重要性と実践 | SaaS.tech #7</h1> <p>SaaS.tech の第7回は「SaaSにおけるLLMと重要性と実践」と題して、PKSHA Technology、MNTSQ、LayerX が SaaS企業におけるLarge Language Model(大規模言語モデル)の重要性やSaaS企業における具体的な実践方法についてお話します。</p> <p>LLMに関するLT登壇者も3名募集いたします！奮ってご応募ください。</p> <p><strong>今回は、SaaS.tech初となるオフライン開催です！</strong></p> <h2>イベント詳細</h2> <h3>基本情報</h3> <ul> <li>日時：2023 年 4月 19 日（水）19:00〜21:00</li> <li>会場 : PKSHA Technology オフィス1階<ul> <li>住所：〒113-0033 東...",
+            "url": "https://saas-tech.connpass.com/event/278317/",
+            "title": "SaaSにおけるLLMの重要性と実践 | SaaS.tech #7 | SaaS.tech グループの新着イベント",
+            "summary": "開催日時: 2023/04/19 19:00 ～ 21:00<br />開催場所: 東京都文京区本郷1丁目28-10 (本郷TKビル)<br /><br /><h1>SaaSにおけるLLMと重要性と実践 | SaaS.tech #7</h1> <p>SaaS.tech の第7回は「SaaSにおけるLLMと重要性と実践」と題して、PKSHA Technology、MNTSQ、LayerX が Saa...",
+            "date_modified": "2023-03-20T03:51:05.000Z",
+            "date_published": "2023-03-20T03:51:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SaaSにおけるLLMの重要性と実践 | SaaS.tech #7",
+                "blogTitle": "SaaS.tech グループの新着イベント",
+                "blogLink": "https://saas-tech.connpass.com/",
+                "blogLinkMd5Hash": "a237f06c077477919e304cba5d145ab4"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278076/",
+            "content_html": "開催日時: 2023/04/10 13:00 ～ 2023/04/11 14:45<br />開催場所: オンライン<br /><br /><p><strong>【開発者・IT技術者向けの無料トレーニング】Microsoft Azure Virtual Training Day: GitHubを使ったDevOps</strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/AGH-0410REG-connpass\" rel=\"nofollow\">https://aka.ms/AGH-0410REG-connpass</a></strong></p> <p>※登録締切は、各イベントの2日前の16:00となります </p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p>.</p> <p>DevOpsについて学びませんか？本トレーニングでは、GitHub を使用してワークフローを管理し、ソフトウェア開発の時間を短縮する方法を半日×2日間で解説します。さらに、品質管理とセ...",
+            "url": "https://microsoft-events.connpass.com/event/278076/",
+            "title": "Microsoft Training Day: GitHubを使ったDevOps | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/10 13:00 ～ 2023/04/11 14:45<br />開催場所: オンライン<br /><br /><p><strong>【開発者・IT技術者向けの無料トレーニング】Microsoft Azure Virtual Training Day: GitHubを使ったDevOps</strong></p> <p><strong>詳細・お申込はこちら：<a href...",
+            "date_modified": "2023-03-20T03:11:52.000Z",
+            "date_published": "2023-03-20T03:11:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Day: GitHubを使ったDevOps",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/276596/",
+            "content_html": "開催日時: 2023/04/10 09:30 ～ 13:00<br />開催場所: オンライン<br /><br /><p><strong>【開発者・IT技術者向けの無料トレーニング】</strong></p> <p><strong>Microsoft Azure Virtual Training Day: Linux OSS データベースの移行</strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/ALOD-0410REG-connpass\" rel=\"nofollow\">https://aka.ms/ALOD-0410REG-connpass</a></strong></p> <p>※ 本トレーニングは英語の音声・コンテンツに日本語字幕でのご提供となります。</p> <p>(Q&amp;Aは、Chatにて日本語で対応いたします。)</p> <p>※登録締切は、各イベントの2日前の16:00となります </p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p...",
+            "url": "https://microsoft-events.connpass.com/event/276596/",
+            "title": "Microsoft Training Day:Linux OSS データベースの移行 | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/10 09:30 ～ 13:00<br />開催場所: オンライン<br /><br /><p><strong>【開発者・IT技術者向けの無料トレーニング】</strong></p> <p><strong>Microsoft Azure Virtual Training Day: Linux OSS データベースの移行</strong></p> <p><strong>詳...",
+            "date_modified": "2023-03-20T03:11:52.000Z",
+            "date_published": "2023-03-20T03:11:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Day:Linux OSS データベースの移行",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278449/",
+            "content_html": "開催日時: 2023/04/13 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>CSSはエンジニアであれば誰しも一度は目に触れたことがあるといった言語といっても過言ではありません。UI/UXに関わる方や、デザイナーの方でもCSSを自ら実装する方もいらっしゃるでしょう。 一方で、CSSは突き詰めていくととても難しい、と仰られるエンジニアの方も多く、Findyでもそんな声をよく伺います。</p> <p>本イベントは、CSSのエキスパートとして記事発信や登壇を多数しているマネーフォワード社の鹿野さんをお呼びして、参加者の方にとって明日から活用できる学びとなるイベントを目指します。</p> <h2>🕖タイムテーブル</h2> <table> <thead> <tr> <th align=\"left\">時間</th> <th align=\"left\">セッションタイトル</th> </tr> </thead> <tbody> <tr> <td align=\"left\">18:00 ~ 18:05</td> <td alig...",
+            "url": "https://findy.connpass.com/event/278449/",
+            "title": "鹿野さんに聞く！2023年モダンCSSの最新トレンド | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/13 18:00 ～ 19:00<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>CSSはエンジニアであれば誰しも一度は目に触れたことがあるといった言語といっても過言ではありません。UI/UXに関わる方や、デザイナーの方でもCSSを自ら実装する方もいらっしゃるでしょう。 一方で、CSSは突き詰めていくととても難しい、と仰られるエ...",
+            "date_modified": "2023-03-20T02:57:37.000Z",
+            "date_published": "2023-03-20T02:57:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "鹿野さんに聞く！2023年モダンCSSの最新トレンド",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/277939/",
+            "content_html": "開催日時: 2023/03/24 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p> <p>詳細は <a href=\"https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b\" rel=\"nofollow\">ゆめみ・オープンハンドブック</a> をご覧ください。</p> <h4>オンライン開催</h4> <p>Zoom を使ったオンライン開催になりますけれど...",
+            "url": "https://yumemi.connpass.com/event/277939/",
+            "title": "熊谷さんのやさしいSwift勉強会 #230 #YUMEMI.grow | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/24 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <...",
+            "date_modified": "2023-03-19T04:44:16.000Z",
+            "date_published": "2023-03-19T04:44:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "熊谷さんのやさしいSwift勉強会 #230 #YUMEMI.grow",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/275761/",
+            "content_html": "開催日時: 2023/04/14 19:00 ～ 21:00<br />開催場所: 〒810-0001 福岡県福岡市中央区天神１丁目１５−30<br /><br /><p>This event builds upon the knowledge from the previous event. </p> <p>Previous event recording: <a href=\"https://youtube.com/live/mjha8641PNM\" rel=\"nofollow\">https://youtube.com/live/mjha8641PNM</a></p> <p>Previous event slides: <a href=\"https://lauriegriffiths.github.io/files/MicrocontrollerSlides.pdf\" rel=\"nofollow\">https://lauriegriffiths.github.io/files/MicrocontrollerSlides.pdf</a></p> <h2>What is a microc...",
+            "url": "https://engineercafe.connpass.com/event/275761/",
+            "title": "Microcontroller Mania 2: We need to go smaller! | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/04/14 19:00 ～ 21:00<br />開催場所: 〒810-0001 福岡県福岡市中央区天神１丁目１５−30<br /><br /><p>This event builds upon the knowledge from the previous event. </p> <p>Previous event recording: <a href=\"https://y...",
+            "date_modified": "2023-03-18T08:24:45.000Z",
+            "date_published": "2023-03-18T08:24:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microcontroller Mania 2: We need to go smaller!",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        },
+        {
+            "id": "https://kaonavi.connpass.com/event/259961/",
+            "content_html": "開催日時: 2023/03/30 19:00 ～ 20:00<br />開催場所: YouTube Live<br /><br /><h2>イベント概要</h2> <p>カオナビでは「全社スプリントレビュー」をはじめとして、営業やサポートといった方々の気づきを取り込むフィードバックループの仕組みが存在します。 今回は、このサイクルの仕組みをプロダクト×カスタマーサクセスという切り口でご紹介いたします。</p> <p>モデレーターは弊社CTOが務め、カスタマサポート部の菅原とプロダクト開発本部の大倉による対談を通じて以下のお話しをしたいと思います。</p> <ul> <li>リリースまでのフィードバックフロー</li> <li>プロダクトとカスタマーサクセスのコラボレーション</li> <li>顧客の声をプロダクトに反映するための工夫</li> <li>ロードマップ開発の中でも既存改善も着実に進めるためには？</li> </ul> <p>開発の方もカスタマーサクセスの方もお楽しみいただける内容となっておりますので是非ご参加ください！</p> <h2>👀 kaonavi Tech Tal...",
+            "url": "https://kaonavi.connpass.com/event/259961/",
+            "title": "kaonavi Tech Talk #13 | カオナビ グループの新着イベント",
+            "summary": "開催日時: 2023/03/30 19:00 ～ 20:00<br />開催場所: YouTube Live<br /><br /><h2>イベント概要</h2> <p>カオナビでは「全社スプリントレビュー」をはじめとして、営業やサポートといった方々の気づきを取り込むフィードバックループの仕組みが存在します。 今回は、このサイクルの仕組みをプロダクト×カスタマーサクセスという切り口でご紹介いたしま...",
+            "date_modified": "2023-03-17T09:43:03.000Z",
+            "date_published": "2023-03-17T09:43:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "kaonavi Tech Talk #13",
+                "blogTitle": "カオナビ グループの新着イベント",
+                "blogLink": "https://kaonavi.connpass.com/",
+                "blogLinkMd5Hash": "430e99161bc9bf0a2ec3d3276c482a69"
+            }
+        },
+        {
+            "id": "https://pyconjp.connpass.com/event/278008/",
+            "content_html": "開催日時: 2023/05/20 17:30 ～ 19:30<br />開催場所: (場所未定)<br /><br /><p><strong>Python Boot Camp in 鹿児島2ndイベント終了後の懇親会です</strong></p> <p>チュートリアルイベント参加者の方は「本イベント参加者枠」から申し込みをお願いします。 チュートリアルに参加されない方で懇親会のみ参加を希望する方は、下記「懇親会だけの参加について」を確認した上で「懇親会のみ参加枠」から申し込みください。</p> <h1>Python Boot Campとは</h1> <p>PyCon JPではこれまでも年に１回東京で開催されるPyCon JPイベントでPythonを学べるチュートリアル講座を開催してきました。 今回は、以下のような人たちにPythonを知ってもらえる機会を提供できたらという思いで、Python Boot Camp（略してPyCamp）を企画しました。</p> <ul> <li>遠方に住んでいるためPyCon JPのチュートリアルに参加できずにいた方</li> <li>Pythonを使って...",
+            "url": "https://pyconjp.connpass.com/event/278008/",
+            "title": "Python Boot Camp in 鹿児島2nd 懇親会 | PyCon JP グループの新着イベント",
+            "summary": "開催日時: 2023/05/20 17:30 ～ 19:30<br />開催場所: (場所未定)<br /><br /><p><strong>Python Boot Camp in 鹿児島2ndイベント終了後の懇親会です</strong></p> <p>チュートリアルイベント参加者の方は「本イベント参加者枠」から申し込みをお願いします。 チュートリアルに参加されない方で懇親会のみ参加を希望する方は...",
+            "date_modified": "2023-03-17T09:34:57.000Z",
+            "date_published": "2023-03-17T09:34:57.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Python Boot Camp in 鹿児島2nd 懇親会",
+                "blogTitle": "PyCon JP グループの新着イベント",
+                "blogLink": "https://pyconjp.connpass.com/",
+                "blogLinkMd5Hash": "c48b189007addd66d2994b61d5c04424"
+            }
+        },
+        {
+            "id": "https://pyconjp.connpass.com/event/278007/",
+            "content_html": "開催日時: 2023/05/20 13:00 ～ 17:00<br />開催場所: 〒890-0053 鹿児島県鹿児島市中央町１８−１<br /><br /><h1>鹿児島県で2回目の開催! Python Boot Camp</h1> <p>鹿児島県でのPython Boot Campの開催が決定しました！ Python Boot CampをきっかけにPythonをはじめてみませんか？</p> <h1>Python Boot Camp（略してPyCamp）とは</h1> <p>一般社団法人PyCon JP Association は、以下の思いで、Python Boot Campを企画しました。</p> <ul> <li>日本国内にPythonを広めたい。 </li> <li>地域でPythonを学ぶチャンスが無い人に、そのきっかけを作りたい。 </li> </ul> <p>Python Boot Camp（略してPyCamp） を開催することで、以下のようなPythonista（Pythonを使う人）同士のつながりが深まることを目的としています。</p> <ul> <li>PyCam...",
+            "url": "https://pyconjp.connpass.com/event/278007/",
+            "title": "Python Boot Camp in 鹿児島2nd | PyCon JP グループの新着イベント",
+            "summary": "開催日時: 2023/05/20 13:00 ～ 17:00<br />開催場所: 〒890-0053 鹿児島県鹿児島市中央町１８−１<br /><br /><h1>鹿児島県で2回目の開催! Python Boot Camp</h1> <p>鹿児島県でのPython Boot Campの開催が決定しました！ Python Boot CampをきっかけにPythonをはじめてみませんか？</p> <...",
+            "date_modified": "2023-03-17T08:01:06.000Z",
+            "date_published": "2023-03-17T08:01:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Python Boot Camp in 鹿児島2nd",
+                "blogTitle": "PyCon JP グループの新着イベント",
+                "blogLink": "https://pyconjp.connpass.com/",
+                "blogLinkMd5Hash": "c48b189007addd66d2994b61d5c04424"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278140/",
+            "content_html": "開催日時: 2023/04/11 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>常に新しいツールが出たり、フェーズやドメインによっても変わるアーキテクチャ。<br> 自社にあったものは何かを考えながら最新のトレンドやどんなツールを組み合わせると良いのかなど新しい情報を取得していくことも重要です。 今回は、データ基盤アーキテクチャにおいて各社が意識していることをLT形式で発表、最後にSnowflake 本橋さん、ちゅらデータ 菱沼さんに2023年のトレンドについてお話しいただきます。</p> <h2>🕖タイムテーブル</h2> <table> <thead> <tr> <th align=\"left\">時間</th> <th align=\"left\">セッションタイトル</th> <th align=\"left\">スピーカー</th> </tr> </thead> <tbody> <tr> <td align=\"left\">19:00~</td> <td align=\"left\">オープニング・ご挨拶</td> <...",
+            "url": "https://findy.connpass.com/event/278140/",
+            "title": "データ基盤アーキテクチャトレンド 2023 LTとパネルで学ぶ | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/11 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>常に新しいツールが出たり、フェーズやドメインによっても変わるアーキテクチャ。<br> 自社にあったものは何かを考えながら最新のトレンドやどんなツールを組み合わせると良いのかなど新しい情報を取得していくことも重要です。 今回は、データ基盤アーキテクチ...",
+            "date_modified": "2023-03-17T07:01:04.000Z",
+            "date_published": "2023-03-17T07:01:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "データ基盤アーキテクチャトレンド 2023 LTとパネルで学ぶ",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/278084/",
+            "content_html": "開催日時: 2023/04/12 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>モバイル技術をテーマとしたLT会です❗<br> iOSもAndroidもマルチプラットフォームな技術もなんでもOK🙆‍♂️<br> モバイルエンジニアの成長の場を目指しています🫡 </p> <h1>開催概要</h1> <h3>日時</h3> <p><strong>2023/04/12 (水) 19:00 ~ 21:00</strong></p> <h3>会場</h3> <p><strong>Zoomでのオンライン開催 </strong></p> <p>Zoom で参加いただきます。<br> 事前に <a href=\"https://zoom.us\" rel=\"nofollow\">Zoom</a> のアカウントを作成してください。<br> 開催日に connpass からのメールで招待リンクをお送りしますのでログインして参加いただけます。 </p> <p>※Zoomに参加できない等問題がありましたら Twitter で <a hr...",
+            "url": "https://yumemi.connpass.com/event/278084/",
+            "title": "YUMEMI.grow Mobile #2 | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/04/12 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>モバイル技術をテーマとしたLT会です❗<br> iOSもAndroidもマルチプラットフォームな技術もなんでもOK🙆‍♂️<br> モバイルエンジニアの成長の場を目指しています🫡 </p> <h1>開催概要</h1> <h3>日時</h3>...",
+            "date_modified": "2023-03-17T06:18:06.000Z",
+            "date_published": "2023-03-17T06:18:06.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "YUMEMI.grow Mobile #2",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://mercari.connpass.com/event/277536/",
+            "content_html": "開催日時: 2023/04/04 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要<br></h1> <p>鹿島アントラーズ8回目のオンライン採用イベントです！今回はアントラーズ裏側「プロサッカークラブにおける人事の仕事」を実施できればと思います。プロフットボールクラブの運営を行うアントラーズにおいて、人事がどのような役割をもち「事業運営」「プロフットボール」と関わっているのかについてお話します。 <br></p> <ul> <li>アントラーズにおける人事労政チームの紹介</li> <li>フットボール（プロチーム）との関わりなど、Ｊクラブならではの業務について</li> <li>日常業務から報酬計算業務、評価制度や副業制度導入などの事例紹介</li> <li>Q＆Aコーナー</li> </ul> <p><em>採用イベントではありますが、直近で転職を考えていない方のご参加もwelcomeです！</em> アントラーズでの働き方などの質問はもちろんですが、キャリアにおける悩み解決につながる質問なども受けながらお話できればと思って...",
+            "url": "https://mercari.connpass.com/event/277536/",
+            "title": "鹿島アントラーズの裏側 -プロサッカークラブにおける人事の仕事- | メルカリ／Mercari グループの新着イベント",
+            "summary": "開催日時: 2023/04/04 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>イベント概要<br></h1> <p>鹿島アントラーズ8回目のオンライン採用イベントです！今回はアントラーズ裏側「プロサッカークラブにおける人事の仕事」を実施できればと思います。プロフットボールクラブの運営を行うアントラーズにおいて、人事がどのような役割をもち「事業運営」「...",
+            "date_modified": "2023-03-17T04:44:35.000Z",
+            "date_published": "2023-03-17T04:44:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "鹿島アントラーズの裏側 -プロサッカークラブにおける人事の仕事-",
+                "blogTitle": "メルカリ／Mercari グループの新着イベント",
+                "blogLink": "https://mercari.connpass.com/",
+                "blogLinkMd5Hash": "8e179226b24a7273a67303e963f37a93"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/277826/",
+            "content_html": "開催日時: 2023/03/22 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p> <p>詳細は <a href=\"https://yumemi.notion.site/Swift-687334bd0b844dcab35f360f3df75b9b\" rel=\"nofollow\">ゆめみ・オープンハンドブック</a> をご覧ください。</p> <h4>オンライン開催</h4> <p>Zoom を使ったオンライン開催になりますけれど...",
+            "url": "https://yumemi.connpass.com/event/277826/",
+            "title": "熊谷さんのやさしいSwift勉強会 #229 #YUMEMI.grow | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/22 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1> <p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p> <...",
+            "date_modified": "2023-03-17T04:01:05.000Z",
+            "date_published": "2023-03-17T04:01:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "熊谷さんのやさしいSwift勉強会 #229 #YUMEMI.grow",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278074/",
+            "content_html": "開催日時: 2023/04/07 09:30 ～ 13:00<br />開催場所: オンライン<br /><br /><p><strong>【ローコード開発をスムーズに行うためのヒントが満載！】</strong> <strong>Microsoft Power PlatformVirtual Training Day:ビジネスプロセスの自動化</strong>  </p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/PABP-0407REG-connpass\" rel=\"nofollow\">https://aka.ms/PABP-0407REG-connpass</a></strong></p> <p>※登録締切は、各イベントの2日前の16:00となります。</p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。</p> <p><strong>【ワークフローを最適化するためのヒントが満載！】</strong></p> <p>Microsoft AI Builder と Power Autom...",
+            "url": "https://microsoft-events.connpass.com/event/278074/",
+            "title": "Microsoft Virtual Training Day:ビジネスプロセスの自動化 | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/07 09:30 ～ 13:00<br />開催場所: オンライン<br /><br /><p><strong>【ローコード開発をスムーズに行うためのヒントが満載！】</strong> <strong>Microsoft Power PlatformVirtual Training Day:ビジネスプロセスの自動化</strong>  </p> <p><strong>詳...",
+            "date_modified": "2023-03-17T03:02:39.000Z",
+            "date_published": "2023-03-17T03:02:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Virtual Training Day:ビジネスプロセスの自動化",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://line.connpass.com/event/278063/",
+            "content_html": "開催日時: 2023/03/29 19:00 ～ 20:40<br />開催場所: ハイブリッド<br /><br /><h1>ベント概要</h1> <p>「Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考」<br> 「プログラマー脳 ～優れたプログラマーになるための認知科学に基づくアプローチ」<br> の出版記念イベントを開催します！<br></p> <p><img src=\"https://vos.line-scdn.net/landpress-content-v2_1761/1678773184103.jpg?updatedAt=1678773186000\" width=\"400\"></p> <p>本イベントでは、翻訳者による書籍の概要紹介や、参加者の皆様からの質問を交えてカジュアルにパネルディスカッションなどを行います。<br> <br> 書籍を既に購入された方、購入しようか迷っている方、初めて聞いたけどその本って何？と疑問をお持ちの方、ご興味のある方であればどなたでも参加可能です。<br> <br> ※参加費は無料です<br> ※オ...",
+            "url": "https://line.connpass.com/event/278063/",
+            "title": "【出版記念】Good Code, Bad Code & プログラマー脳 訳者トークイベント | LINE Developer Meetup グループの新着イベント",
+            "summary": "開催日時: 2023/03/29 19:00 ～ 20:40<br />開催場所: ハイブリッド<br /><br /><h1>ベント概要</h1> <p>「Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考」<br> 「プログラマー脳 ～優れたプログラマーになるための認知科学に基づくアプローチ」<br> の出版記念イベントを開催します！<br></p> ...",
+            "date_modified": "2023-03-17T02:00:29.000Z",
+            "date_published": "2023-03-17T02:00:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【出版記念】Good Code, Bad Code & プログラマー脳 訳者トークイベント",
+                "blogTitle": "LINE Developer Meetup グループの新着イベント",
+                "blogLink": "https://line.connpass.com/",
+                "blogLinkMd5Hash": "3224f896faa91d41ea5952466aeb5f1c"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/278047/",
+            "content_html": "開催日時: 2023/04/06 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>大規模言語モデルをサービスに組み込む企業が続々と現れています。直近ではGPT-4が話題となりましたが、BingやBardなど、各社が急速に会話型AIを展開しています。 そんな中、一早くそれらをサービスに組み込む判断を下した企業は、どのように意思決定し、開発を行ってきたのか。そして、今後どのように活用していくのか。 本イベントでは、エンジニアユーザー向けに、プロダクト開発におけるChatGPTなどの開発の流れと今後について、参加者の方々の学びとなる場を目指します。</p> <p>&lt;参考記事&gt;<br> ▼「プロフェッショナル・テックを推進する「弁護士ドットコム」が 「Professional Tech Lab」と「Professional Tech Fund」を創設〜ChatGPT に代表される新技術の積極的活用を目指す〜」 <a href=\"https://www.bengo4.com/corporate/news/artic...",
+            "url": "https://findy.connpass.com/event/278047/",
+            "title": "ChatGPTで実現する新サービス。開発における学びと展望【弁護士ドットコム×note】 | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>大規模言語モデルをサービスに組み込む企業が続々と現れています。直近ではGPT-4が話題となりましたが、BingやBardなど、各社が急速に会話型AIを展開しています。 そんな中、一早くそれらをサービスに組み込む判断を下した企業は、どのように意思決定...",
+            "date_modified": "2023-03-17T01:10:26.000Z",
+            "date_published": "2023-03-17T01:10:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ChatGPTで実現する新サービス。開発における学びと展望【弁護士ドットコム×note】",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://yumemi.connpass.com/event/278337/",
+            "content_html": "開催日時: 2023/03/23 13:00 ～ 13:55<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>ゆめみフロントエンドランチの回，通称「<strong>ゆめフロ</strong>」は，世界中の様々な記事やコンテンツを見ながらワイガヤする会です！<br> 名前の通りお昼の時間にもぐもぐしながら話していきます（笑）<br> もちろん何も食べていなくてもオッケー👌<br> お互いにゆるく学び会えればと思っておりますので，どうぞお気軽にご参加ください！</p> <h1>開催概要</h1> <h3>日時</h3> <p><strong> 2023/3/23 (Thu) 13:00 ~ 14:00</strong></p> <h3>会場</h3> <p><strong>Zoomでのオンライン開催 + YouTube Live </strong></p> <h3>資料</h3> <p><a href=\"https://notion.yumemi.co.jp/2a2f27348d8445e395a96f5369dfbf09\" rel=\"nof...",
+            "url": "https://yumemi.connpass.com/event/278337/",
+            "title": "ゆめフロ ランチの会 #13 | 株式会社ゆめみ グループの新着イベント",
+            "summary": "開催日時: 2023/03/23 13:00 ～ 13:55<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1> <p>ゆめみフロントエンドランチの回，通称「<strong>ゆめフロ</strong>」は，世界中の様々な記事やコンテンツを見ながらワイガヤする会です！<br> 名前の通りお昼の時間にもぐもぐしながら話していきます（笑）<br> もちろん何も食べてい...",
+            "date_modified": "2023-03-16T14:39:40.000Z",
+            "date_published": "2023-03-16T14:39:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ゆめフロ ランチの会 #13",
+                "blogTitle": "株式会社ゆめみ グループの新着イベント",
+                "blogLink": "https://yumemi.connpass.com/",
+                "blogLinkMd5Hash": "941de3b2052eb424249e69de08d291d4"
+            }
+        },
+        {
+            "id": "https://devrel.connpass.com/event/278328/",
+            "content_html": "開催日時: 2023/04/05 19:00 ～ 22:00<br />開催場所: 東京都渋谷区道玄坂１－１７－９ ヴェラハイツ道玄坂10階1004号室<br /><br /><h1>オフラインのみの開催です。後日配信予定もありません</h1> <p>開催場所は都内某所になります。</p> <h2>最近転職した方々に、転職裏話を聞く</h2> <p>Amazon、Google、Facebook、Evernote、GitHub…多数の企業が実践しているマーケティング手法がDevRel（Developer Relations）です。外部の開発者とのつながりを形成し、製品やサービスを知ってもらうこと、さらに彼らの声を聞くことでサービスの改善や機能追加に活かしていく活動になります。</p> <p>日本でもエバンジェリストやデベロッパーアドボケイトと呼ばれる方が増えており、製品やサービスを紹介しています。DevRel Meetup ではそうしたエバンジェリスト、DevRel活動を行っている方が集まり、知見を共有したり情報交換をする場にしたいと考えています。イベントを繰り返すことでDevRelやエ...",
+            "url": "https://devrel.connpass.com/event/278328/",
+            "title": "DevRel Meetup in Tokyo #82 〜転職パネルディスカッション〜 | DevRel Meetup in Tokyo グループの新着イベント",
+            "summary": "開催日時: 2023/04/05 19:00 ～ 22:00<br />開催場所: 東京都渋谷区道玄坂１－１７－９ ヴェラハイツ道玄坂10階1004号室<br /><br /><h1>オフラインのみの開催です。後日配信予定もありません</h1> <p>開催場所は都内某所になります。</p> <h2>最近転職した方々に、転職裏話を聞く</h2> <p>Amazon、Google、Facebook、E...",
+            "date_modified": "2023-03-16T12:42:58.000Z",
+            "date_published": "2023-03-16T12:42:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DevRel Meetup in Tokyo #82 〜転職パネルディスカッション〜",
+                "blogTitle": "DevRel Meetup in Tokyo グループの新着イベント",
+                "blogLink": "https://devrel.connpass.com/",
+                "blogLinkMd5Hash": "88b9c48f579a5617852afb83d751abb3"
+            }
+        },
+        {
+            "id": "https://yumenosora.connpass.com/event/276849/",
+            "content_html": "開催日時: 2023/04/20 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>カオスなエンジニアLT会！</h1> <p>「エンジニア(IT・機械・技術)」が高校生のなりたい職業第一位。 2021年12月に学研教育総合研究所が衝撃的なデータ※を公開されました。</p> <p>そんな注目を浴びるエンジニア！しかしエンジニアといっても一言に様々です。アンケートもIT・機械・技術とまとめられているので「そりゃ上位だろうさ！」と思ったかたもいたのでは無いでしょうか。<br> ITの中でもSREやソフトウェアエンジニア、ハードウェアエンジニア、インフラエンジニアと幅が広いものです。今回はアンケートに倣って普段の垣根を取っ払って色んな人にいろんなLTをしてほしい！というLT会です。</p> <p><strong>最近やったおもしろ技術、ネタLT,最近作ったものなどなど…… 皆さんのエンジニアトークを是非LTしてください！</strong></p> <p>※ <a href=\"https://www.itmedia.co.jp/news/article...",
+            "url": "https://yumenosora.connpass.com/event/276849/",
+            "title": "”エンジニア”なら誰でもOK!! カオスエンジニアLT会 | 虎の穴ラボ(とらのあな) グループの新着イベント",
+            "summary": "開催日時: 2023/04/20 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>カオスなエンジニアLT会！</h1> <p>「エンジニア(IT・機械・技術)」が高校生のなりたい職業第一位。 2021年12月に学研教育総合研究所が衝撃的なデータ※を公開されました。</p> <p>そんな注目を浴びるエンジニア！しかしエンジニアといっても一言に様々です。アン...",
+            "date_modified": "2023-03-16T09:19:00.000Z",
+            "date_published": "2023-03-16T09:19:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "”エンジニア”なら誰でもOK!! カオスエンジニアLT会",
+                "blogTitle": "虎の穴ラボ(とらのあな) グループの新着イベント",
+                "blogLink": "https://yumenosora.connpass.com/",
+                "blogLinkMd5Hash": "1aed719e09c7f25f98e25dc56e1c269c"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/273551/",
+            "content_html": "開催日時: 2023/03/29 15:00 ～ 16:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>水曜プロト 第7回「ノーコードでChatGPTに教えてもらうアプリをつくる」 WEDNESDAY PROTOTYPING</h1> <p>「何か作ってみたいけど、どうやって作るのかわからない」というお悩みをお持ちの方必見！プロトタイプ作成の楽しさをお伝えするエンジニアカフェの新しい試みがはじまりました！<br> 水曜日にプロトタイピングを楽しむイベントなので、イベント名は「水曜プロト」です！<br></p> <h2>イベントの目的</h2> <p>・MAKERSスペースの機材の活用法の周知 ・機材講習用動画コンテンツの拡充 ・話題の技術を使うTipsのご提供</p> <h2>内容<br></h2> <p>前回利用したChatGPTを使ってノーコードでChatGPTに教えてもらうアプリをつくりたいと思います。お楽しみに！<br></p> <h2>対象</h2> <ul> <li>プログラミングに興味を持ち始めた人</li> <li>エンジニ...",
+            "url": "https://engineercafe.connpass.com/event/273551/",
+            "title": "水曜プロト 第7回「ノーコードでChatGPTに教えてもらうアプリをつくる」(2023-3-29) | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/03/29 15:00 ～ 16:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h1>水曜プロト 第7回「ノーコードでChatGPTに教えてもらうアプリをつくる」 WEDNESDAY PROTOTYPING</h1> <p>「何か作ってみたいけど、どうやって作るのかわからない」というお悩みをお持ちの方必見！プロトタイプ作成の楽しさをお...",
+            "date_modified": "2023-03-16T04:40:39.000Z",
+            "date_published": "2023-03-16T04:40:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "水曜プロト 第7回「ノーコードでChatGPTに教えてもらうアプリをつくる」(2023-3-29)",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        },
+        {
+            "id": "https://devrel.connpass.com/event/278243/",
+            "content_html": "開催日時: 2023/03/21 17:30 ～ 18:30<br />開催場所: オンライン<br /><br /><h1>DevRel/Radio #105のテーマは「手放せない仕事道具」です！</h1> <p>配信はYouTube Liveなどで行いますが、画面は見なくても大丈夫です。耳だけで楽しめるコンテンツを目指します！</p> <p>DevRel/Radioは耳だけで楽しめるDevRelコンテンツです。<a href=\"https://forms.gle/LmiaA82uj3FqvFdp8\" rel=\"nofollow\">リスナーの方々からの投稿を大募集しています</a>！</p> <p>105回目となる今回のテーマは「<a href=\"https://forms.gle/LmiaA82uj3FqvFdp8\" rel=\"nofollow\">手放せない仕事道具</a>」です。PCはなしで。皆さんが普段仕事をしている中で、もう手放せなくなっているツールを教えてください。物理、ソフトウェアどちらでもOKです！</p> <p>そのほか、今後扱ってほしいテーマなども募集中です！</p...",
+            "url": "https://devrel.connpass.com/event/278243/",
+            "title": "DevRel/Radio #105 〜手放せない仕事道具〜 | DevRel Meetup in Tokyo グループの新着イベント",
+            "summary": "開催日時: 2023/03/21 17:30 ～ 18:30<br />開催場所: オンライン<br /><br /><h1>DevRel/Radio #105のテーマは「手放せない仕事道具」です！</h1> <p>配信はYouTube Liveなどで行いますが、画面は見なくても大丈夫です。耳だけで楽しめるコンテンツを目指します！</p> <p>DevRel/Radioは耳だけで楽しめるDevRe...",
+            "date_modified": "2023-03-16T01:55:13.000Z",
+            "date_published": "2023-03-16T01:55:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DevRel/Radio #105 〜手放せない仕事道具〜",
+                "blogTitle": "DevRel Meetup in Tokyo グループの新着イベント",
+                "blogLink": "https://devrel.connpass.com/",
+                "blogLinkMd5Hash": "88b9c48f579a5617852afb83d751abb3"
+            }
+        },
+        {
+            "id": "https://speee.connpass.com/event/278238/",
+            "content_html": "開催日時: 2023/03/29 10:00 ～ 21:30<br />開催場所: オンライン<br /><br /><h2>概要</h2> <p>「Rubyでデータ処理できるようにするプロジェクト」<a href=\"https://red-data-tools.github.io/ja/\" rel=\"nofollow\">Red Data Tools</a>の開発をする集まりです。すでにRed Data Toolsの開発に参加している人はもちろん、これからRed Data Toolsの開発に参加したい（Rubyでデータ処理できるようにしたい！）人向けの集まりです。</p> <p>参加にあたって特に事前知識は必要ありません。必要であれば集まりの中で随時説明するからです。</p> <p>この集まりは「OSSの開発に参加する人を継続的に増やす取り組み」<a href=\"https://oss-gate.github.io/\" rel=\"nofollow\">OSS Gate</a>の一環です。Red Data Toolsが開発するツールはすべてOSSです。</p> <p>以下は参考URLです。...",
+            "url": "https://speee.connpass.com/event/278238/",
+            "title": "OSS Gateミートアップ for Red Data Tools by Speee | Speee エンジニア勉強会 グループの新着イベント",
+            "summary": "開催日時: 2023/03/29 10:00 ～ 21:30<br />開催場所: オンライン<br /><br /><h2>概要</h2> <p>「Rubyでデータ処理できるようにするプロジェクト」<a href=\"https://red-data-tools.github.io/ja/\" rel=\"nofollow\">Red Data Tools</a>の開発をする集まりです。すでにRed D...",
+            "date_modified": "2023-03-16T01:30:35.000Z",
+            "date_published": "2023-03-16T01:30:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OSS Gateミートアップ for Red Data Tools by Speee",
+                "blogTitle": "Speee エンジニア勉強会 グループの新着イベント",
+                "blogLink": "https://speee.connpass.com/",
+                "blogLinkMd5Hash": "18c3ed5b4ab3c40b1d584008e244d648"
+            }
+        },
+        {
+            "id": "https://jdla.connpass.com/event/277087/",
+            "content_html": "開催日時: 2023/04/06 20:30 ～ 22:00<br />開催場所: オンライン<br /><br /><h1>CDLE女子会とは</h1> <p>CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会が実施するG検定およびE資格の合格者が参加する日本最大のAIコミュニティで、CDLE女子会とはCDLE内の女性メンバーをネットワーキングを目的としたグループです。</p> <h1>2022年4月から当面の間、オンライン交流会を毎月第二木曜日に定期開催します！</h1> <p>女性比率がまだまだ低い業界、女性で気兼ねなく話せる仲間が欲しい、ちょっと雑談・相談したい、と思うことはありませんか？ CDLE女子会では、定期的な交流会の場を設け、気軽にネットワーキングしやすい環境を提供していきます。 まずは自己紹介から始めてお互いを知り合う会なので、気軽にご参加下さい！</p> <h1>スケジュール(予定)</h1> <table> <thead> <tr> <th align=\"left\">時間</th> <th a...",
+            "url": "https://jdla.connpass.com/event/277087/",
+            "title": "【CDLE主催】CDLE女子会　月例交流会【2023年4月】 | 日本ディープラーニング協会 グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 20:30 ～ 22:00<br />開催場所: オンライン<br /><br /><h1>CDLE女子会とは</h1> <p>CDLE（Community of Deep Learning Evangelists）とは、日本ディープラーニング協会が実施するG検定およびE資格の合格者が参加する日本最大のAIコミュニティで、CDLE女子会とはCDLE内の女性メンバー...",
+            "date_modified": "2023-03-15T23:01:03.000Z",
+            "date_published": "2023-03-15T23:01:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【CDLE主催】CDLE女子会　月例交流会【2023年4月】",
+                "blogTitle": "日本ディープラーニング協会 グループの新着イベント",
+                "blogLink": "https://jdla.connpass.com/",
+                "blogLinkMd5Hash": "e429726c8f97709e2cec8bb069308c5e"
+            }
+        },
+        {
+            "id": "https://gmo.connpass.com/event/277627/",
+            "content_html": "開催日時: 2023/04/11 19:00 ～ 21:00<br />開催場所: 東京都渋谷区桜丘町26-1 セルリアンタワー<br /><br /><h1><strong>sunabar コミュニティイベント#22<br>「UPSIDER＆ペイトナー代表と語る 組込型金融を活用したBizDev（事業開発）」</strong></h1> <p>GMOあおぞらネット銀行は、4月11日（火）19：00より、sunabar コミュニティイベント#22【UPSIDER＆ペイトナー代表と語る 組込型金融を活用したBizDev（事業開発）】と題したリアル会場限定イベントを開催いたします。（オンライン配信はございません）<br></p> <h2>会場</h2> <p><strong>渋谷 セルリアンタワー</strong><br>（Googleマップ）：<a href=\"https://goo.gl/maps/hJdVnSEnPubKhKUc9\" rel=\"nofollow\">https://goo.gl/maps/hJdVnSEnPubKhKUc9</a> <br> JR渋谷駅西口より歩道橋を渡...",
+            "url": "https://gmo.connpass.com/event/277627/",
+            "title": "【リアル限定開催】UPSIDER＆ペイトナー代表と語る 組込型金融を活用したBizDev（事業開発） | GMOインターネットグループ グループの新着イベント",
+            "summary": "開催日時: 2023/04/11 19:00 ～ 21:00<br />開催場所: 東京都渋谷区桜丘町26-1 セルリアンタワー<br /><br /><h1><strong>sunabar コミュニティイベント#22<br>「UPSIDER＆ペイトナー代表と語る 組込型金融を活用したBizDev（事業開発）」</strong></h1> <p>GMOあおぞらネット銀行は、4月11日（火）19：0...",
+            "date_modified": "2023-03-15T10:31:14.000Z",
+            "date_published": "2023-03-15T10:31:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【リアル限定開催】UPSIDER＆ペイトナー代表と語る 組込型金融を活用したBizDev（事業開発）",
+                "blogTitle": "GMOインターネットグループ グループの新着イベント",
+                "blogLink": "https://gmo.connpass.com/",
+                "blogLinkMd5Hash": "c920920a797ba3212c78605b053500c7"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/276159/",
+            "content_html": "開催日時: 2023/04/12 12:00 ～ 13:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>技術的負債は、ある程度成長したサービスであれば抱えるのは少なからず起きてしまいます。いずれは向き合わなければいけない負債に対してどこからどのように向き合うのが良いのか。</p> <p>本イベントでは、モバイル開発における技術的負債の解消に向き合い乗り越えた5名の方をお招きしてLTをしていただき、参加者の方には明日からの技術的負債に対しての向き合い方に活きるTIpsを持ち帰ってもらうことを目指します。</p> <h2>🕛タイムテーブル</h2> <table> <thead> <tr> <th align=\"left\">時間</th> <th align=\"left\">セッションタイトル</th> <th align=\"left\">企業名</th> <th align=\"left\">スピーカー</th> </tr> </thead> <tbody> <tr> <td align=\"left\">12:00</td> <td align=\"...",
+            "url": "https://findy.connpass.com/event/276159/",
+            "title": "モバイルアプリの技術的負債 みんなで学ぶ Lunch LT | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/04/12 12:00 ～ 13:30<br />開催場所: オンライン<br /><br /><h1>✍️概要</h1> <p>技術的負債は、ある程度成長したサービスであれば抱えるのは少なからず起きてしまいます。いずれは向き合わなければいけない負債に対してどこからどのように向き合うのが良いのか。</p> <p>本イベントでは、モバイル開発における技術的負債の解消に向き合い乗...",
+            "date_modified": "2023-03-15T09:31:04.000Z",
+            "date_published": "2023-03-15T09:31:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "モバイルアプリの技術的負債 みんなで学ぶ Lunch LT",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278171/",
+            "content_html": "開催日時: 2023/04/04 13:00 ～ 2023/04/05 15:30<br />開催場所: オンライン<br /><br /><p><strong>【管理者・設計者向け無料トレーニング】Microsoft Azure Virtual Training Day: Azure Synapse による統合分析の提供</strong></p> <p><strong>詳細・お申込はこちら：<a href=\"https://aka.ms/AAS-0404REG-connpass\" rel=\"nofollow\">https://aka.ms/AAS-0404REG-connpass</a></strong></p> <p>※ 本トレーニングは英語の音声・コンテンツに日本語字幕でのご提供となります。(Q&amp;Aは、Chatにて日本語で対応いたします。) ※登録締切は、イベント1日目開始時刻の48時間前となります<br> ※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。 </p> <p>.</p> <p>クラウドにデータ ウェアハウスを作成し、パ...",
+            "url": "https://microsoft-events.connpass.com/event/278171/",
+            "title": "Microsoft Training Days: Azure Synapseによる統合分析 | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/04/04 13:00 ～ 2023/04/05 15:30<br />開催場所: オンライン<br /><br /><p><strong>【管理者・設計者向け無料トレーニング】Microsoft Azure Virtual Training Day: Azure Synapse による統合分析の提供</strong></p> <p><strong>詳細・お申込はこちら：<a...",
+            "date_modified": "2023-03-15T09:01:11.000Z",
+            "date_published": "2023-03-15T09:01:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Training Days: Azure Synapseによる統合分析",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://msdevjp.connpass.com/event/277756/",
+            "content_html": "開催日時: 2023/05/24 00:30 ～ 2023/05/25 10:00<br />開催場所: オンライン/米国シアトル<br /><br /><h2>Microsoft Build is for developers, by developers</h2> <p>Microsoft Build は、世界中の開発者と Microsoft が関係を築くための毎年恒例の米国Microsoft主催のフラッグシップ イベントです。プロの開発者や業界の先駆者、最先端の技術者が一同に集まり、新しいテクノロジーについて学び、アイデアを共有し、未来を築くためのスキルを身につけることができます。<br> Microsoft 会長兼 CEO のサティア ナデラをはじめ、製品やエンジニアリングのエキスパートたちが、最新の技術情報をお届けし、未来を築くためにアイデアの共有とその質問にお答えします。AIによる新しい機会を発見し、知識とスキルを向上させましょう。<br> <br> <strong>詳細・申込はイベント公式サイトより</strong><br> <strong><a href=\"https:...",
+            "url": "https://msdevjp.connpass.com/event/277756/",
+            "title": "Microsoft Build | Microsoft Open Tech Night グループの新着イベント",
+            "summary": "開催日時: 2023/05/24 00:30 ～ 2023/05/25 10:00<br />開催場所: オンライン/米国シアトル<br /><br /><h2>Microsoft Build is for developers, by developers</h2> <p>Microsoft Build は、世界中の開発者と Microsoft が関係を築くための毎年恒例の米国Microsoft...",
+            "date_modified": "2023-03-15T08:48:37.000Z",
+            "date_published": "2023-03-15T08:48:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Microsoft Build",
+                "blogTitle": "Microsoft Open Tech Night グループの新着イベント",
+                "blogLink": "https://msdevjp.connpass.com/",
+                "blogLinkMd5Hash": "ae3ba480159734e61f1d328e8d47d81c"
+            }
+        },
+        {
+            "id": "https://microsoft-events.connpass.com/event/278072/",
+            "content_html": "開催日時: 2023/03/28 13:00 ～ 17:00<br />開催場所: 東京都港区港南 2-16-3 品川グランドセントラルタワー<br /><br /><p><strong>Microsoft Security Immersion Workshop: Shadow Hunter</strong></p> <p>詳細・お申込はこちら： <a href=\"https://aka.ms/SIW-0328ShadowHunter-connpass\" rel=\"nofollow\">https://aka.ms/SIW-0328ShadowHunter-connpass</a></p> <p>※登録締切は、イベントの1日前の3月27日 13:00となります。</p> <p>※会場は、日本マイクロソフト株式会社 品川本社にて開催いたします。PCをご持参ください。</p> <p>※アジェンダ、スケジュールは予告なく変更させて頂く場合がございます。予めご了承ください。</p> <p><strong>【ゲーム型ハンズオン：Shadow Hunter に参加して、サイバー攻撃への防御スキルをテ...",
+            "url": "https://microsoft-events.connpass.com/event/278072/",
+            "title": "Security Immersion Workshop: Shadow Hunter | 日本マイクロソフト株式会社 グループの新着イベント",
+            "summary": "開催日時: 2023/03/28 13:00 ～ 17:00<br />開催場所: 東京都港区港南 2-16-3 品川グランドセントラルタワー<br /><br /><p><strong>Microsoft Security Immersion Workshop: Shadow Hunter</strong></p> <p>詳細・お申込はこちら： <a href=\"https://aka.ms/S...",
+            "date_modified": "2023-03-15T08:33:45.000Z",
+            "date_published": "2023-03-15T08:33:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Security Immersion Workshop: Shadow Hunter",
+                "blogTitle": "日本マイクロソフト株式会社 グループの新着イベント",
+                "blogLink": "https://microsoft-events.connpass.com/",
+                "blogLinkMd5Hash": "043561caa9ba11a2ed7b801057ab2511"
+            }
+        },
+        {
+            "id": "https://findy.connpass.com/event/277986/",
+            "content_html": "開催日時: 2023/03/30 19:00 ～ 21:30<br />開催場所: 五反田駅付近<br /><br /><h2>開発現場でヒヤッとした話やあるあるから学び、現場に活かしていきませんか？</h2> <p>開発を行っていれば起こるヒヤリハットや、インシデント。<br> 過去に起きた事象から、次に学ぶ場として活かしていけるように、発生したことは共有し、再発防止へと繋げることが肝要です。 今回は、オフラインでリアルでの対話を行いながら、参加者の皆様のつながりと、学びとなる場となることを目指します。</p> <p>なお、\"IT怪談\"は、<a href=\"https://yurutto-it.connpass.com/\" rel=\"nofollow\">ゆるっとIT</a>を運営する<a href=\"https://connpass.com/user/iseki_taketo/\" rel=\"nofollow\">iseki_taketo</a>さんが福岡で主催されているイベントとなります。</p> <p>※本イベントはテーマ感も鑑みて、オフライン×オフレコの現地限りの内容とさせていただ...",
+            "url": "https://findy.connpass.com/event/277986/",
+            "title": "オフライン開催！ゆるっとLT IT怪談 in Tokyo | ファインディ／Findy グループの新着イベント",
+            "summary": "開催日時: 2023/03/30 19:00 ～ 21:30<br />開催場所: 五反田駅付近<br /><br /><h2>開発現場でヒヤッとした話やあるあるから学び、現場に活かしていきませんか？</h2> <p>開発を行っていれば起こるヒヤリハットや、インシデント。<br> 過去に起きた事象から、次に学ぶ場として活かしていけるように、発生したことは共有し、再発防止へと繋げることが肝要です。 ...",
+            "date_modified": "2023-03-15T03:06:09.000Z",
+            "date_published": "2023-03-15T03:06:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "オフライン開催！ゆるっとLT IT怪談 in Tokyo",
+                "blogTitle": "ファインディ／Findy グループの新着イベント",
+                "blogLink": "https://findy.connpass.com/",
+                "blogLinkMd5Hash": "113c362979838481fccce65c44d03c6e"
+            }
+        },
+        {
+            "id": "https://cybozu.connpass.com/event/277790/",
+            "content_html": "開催日時: 2023/04/05 18:30 ～ 21:00<br />開催場所: 東京都中央区日本橋2-7-1 東京日本橋タワー 27階<br /><br /><h1>PHPerKaigi 2023 後日談やります！</h1> <p>今年の <a href=\"https://phperkaigi.jp/2023/\" rel=\"nofollow\">PHPerKaigi 2023</a> では、サイボウズのGaroon開発チームのセッションがあります！<br> その名も <a href=\"https://fortee.jp/phperkaigi-2023/proposal/b3cf069f-e7bb-44e5-97cc-4f2def2a6aa6\" rel=\"nofollow\">サイボウズGaroon開発チームの「完成度低いの歓迎LT大会」（PHPerKaigi出張版）</a> !</p> <p>今回のCybozu Tech Meetupでは、これらの登壇で語り尽くせなかったことについて、追加の発表をしたり、参加してくれる皆様と議論できればと思います！<br> PHPerKaigiに不参加...",
+            "url": "https://cybozu.connpass.com/event/277790/",
+            "title": "【Cybozu Tech Meetup #21】PHPerKaigi 2023 後日談 | Cybozu Inside Out グループの新着イベント",
+            "summary": "開催日時: 2023/04/05 18:30 ～ 21:00<br />開催場所: 東京都中央区日本橋2-7-1 東京日本橋タワー 27階<br /><br /><h1>PHPerKaigi 2023 後日談やります！</h1> <p>今年の <a href=\"https://phperkaigi.jp/2023/\" rel=\"nofollow\">PHPerKaigi 2023</a> では、サイ...",
+            "date_modified": "2023-03-15T03:00:40.000Z",
+            "date_published": "2023-03-15T03:00:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "【Cybozu Tech Meetup #21】PHPerKaigi 2023 後日談",
+                "blogTitle": "Cybozu Inside Out グループの新着イベント",
+                "blogLink": "https://cybozu.connpass.com/",
+                "blogLinkMd5Hash": "cd15c055f45d8ef11822ac03d1bcecf1"
+            }
+        },
+        {
+            "id": "https://forkwell.connpass.com/event/277994/",
+            "content_html": "開催日時: 2023/04/05 19:30 ～ 21:30<br />開催場所: オンライン<br /><br /><h1>開催概要</h1> <p><strong>── 「大きなロールモデルと出会おう」CTO名鑑シリーズ。</strong></p> <p>エンジニアとして自分のキャリアのロールモデルが見つからない、といった悩みはよくある悩みの一つです。 そこでエンジニアキャリアにおける一つの着地点ともいえるCTOの方々をお招きして、CTOになるまでのキャリア、何を学び、どのような道のりを歩んだのかを掘り下げていきます。</p> <p>モデレーターにはInfra Study等のシリーズでもお馴染みのまつもとりー氏をお招きしました。まつもとりー氏自身も2022年5月より株式会社COGNANOの取締役CTOを務められており、皆様と共に学びを深めていけることを期待しております。</p> <p>これまで書籍をテーマにしたイベントやインフラ・フロントエンドといったような技術領域をテーマに数々のイベントを開催してきたForkwellが新たにお届けする「人」テーマの新シリーズを是非、お楽しみくださ...",
+            "url": "https://forkwell.connpass.com/event/277994/",
+            "title": "とあるRailsエンジニアがビジネスリーダーに転身するまでの道のり - CTO名鑑 vol.3 | Forkwell Community グループの新着イベント",
+            "summary": "開催日時: 2023/04/05 19:30 ～ 21:30<br />開催場所: オンライン<br /><br /><h1>開催概要</h1> <p><strong>── 「大きなロールモデルと出会おう」CTO名鑑シリーズ。</strong></p> <p>エンジニアとして自分のキャリアのロールモデルが見つからない、といった悩みはよくある悩みの一つです。 そこでエンジニアキャリアにおける一つの着...",
+            "date_modified": "2023-03-15T02:01:05.000Z",
+            "date_published": "2023-03-15T02:01:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "とあるRailsエンジニアがビジネスリーダーに転身するまでの道のり - CTO名鑑 vol.3",
+                "blogTitle": "Forkwell Community グループの新着イベント",
+                "blogLink": "https://forkwell.connpass.com/",
+                "blogLinkMd5Hash": "f0ea9815c8cca250c60482b476a304ca"
+            }
+        },
+        {
+            "id": "https://jtx.connpass.com/event/277446/",
+            "content_html": "開催日時: 2023/04/11 19:00 ～ 19:55<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2> <p>株式会社Mobility Technologies（以下MoT）は、タクシーアプリ『GO』を始めとして様々なサービスを運営しています。 本イベントでは、半年に計2週間、自己研鑽の時間を確保できる『<a href=\"https://lab.mo-t.com/blog/why-engineer-challenge-week\" rel=\"nofollow\">Engineer Challenge Week</a>』という社内制度を利用して、タクシーアプリ『GO』のiOSアプリで、async/await、Needle、Xcode Cloudの導入の検討状況を発表します。</p> <p>タクシーアプリ『GO』のiOSアプリ開発で、開発者の体験を良くするため、また、UXを良くするために、どのようなことを考え、取り組んでいるかを御覧ください。</p> <p>また、イベントの最後でアンケートに答えていただいた方の中から、抽選で10名様にタクシーアプリ...",
+            "url": "https://jtx.connpass.com/event/277446/",
+            "title": "『GO』のiOS開発で、Concurrency、Xcode Cloud、新DIを試してみた | MoT / Mobility Technologies グループの新着イベント",
+            "summary": "開催日時: 2023/04/11 19:00 ～ 19:55<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2> <p>株式会社Mobility Technologies（以下MoT）は、タクシーアプリ『GO』を始めとして様々なサービスを運営しています。 本イベントでは、半年に計2週間、自己研鑽の時間を確保できる『<a href=\"https://lab.mo-...",
+            "date_modified": "2023-03-14T08:14:24.000Z",
+            "date_published": "2023-03-14T08:14:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "『GO』のiOS開発で、Concurrency、Xcode Cloud、新DIを試してみた",
+                "blogTitle": "MoT / Mobility Technologies グループの新着イベント",
+                "blogLink": "https://jtx.connpass.com/",
+                "blogLinkMd5Hash": "47d7f21b2ee3f948354092f5d8fdd4cc"
+            }
+        },
+        {
+            "id": "https://smarthr.connpass.com/event/278079/",
+            "content_html": "開催日時: 2023/04/06 19:00 ～ 20:00<br />開催場所: オンライン（URLはお申込み後当ページトップに表示されます）<br /><br /><h2>SmartHR Engineer Online Meetup を開催します！</h2> <p>「Online Meetup」は参加者とSmartHRの社員がオンラインで、気軽に質問・交流をしていただけるイベントです。</p> <ul> <li>ちょっとSmartHR気になってた！</li> <li>オンラインだし、ちょっと聞いてみてもいいよ！</li> <li>働く環境のリアルを聞きたい！</li> <li>開発環境や体制を知りたい！</li> </ul> <p>という<br></p> <ul> <li>バックエンドエンジニア</li> <li>フロントエンドエンジニア</li> </ul> <p>のみなさま！<br></p> <p>一度エンジニアとzoomでざっくばらんにお話してみませんか？<br> 実際に働く環境やエンジニアから見たリアルを赤裸々にお話ししちゃいます！</p> <p>例えば<br> 「入社時に...",
+            "url": "https://smarthr.connpass.com/event/278079/",
+            "title": "SmartHR Engineer Online Meetup | 株式会社SmartHR グループの新着イベント",
+            "summary": "開催日時: 2023/04/06 19:00 ～ 20:00<br />開催場所: オンライン（URLはお申込み後当ページトップに表示されます）<br /><br /><h2>SmartHR Engineer Online Meetup を開催します！</h2> <p>「Online Meetup」は参加者とSmartHRの社員がオンラインで、気軽に質問・交流をしていただけるイベントです。</p>...",
+            "date_modified": "2023-03-14T06:50:01.000Z",
+            "date_published": "2023-03-14T06:50:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SmartHR Engineer Online Meetup",
+                "blogTitle": "株式会社SmartHR グループの新着イベント",
+                "blogLink": "https://smarthr.connpass.com/",
+                "blogLinkMd5Hash": "f1caeebca717e3a2ce0d9f2a312f0760"
+            }
+        },
+        {
+            "id": "https://engineercafe.connpass.com/event/278059/",
+            "content_html": "開催日時: 2023/03/22 18:30 ～ 21:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h2>ハッカサポーターの吉野さんと一緒にサーバレスアーキテクチャを用いたWebアプリ開発について学んでみましょう！</h2> <h2>内容</h2> <p>昨今は各社のクラウドサービスにはインフラ構成に加え、開発管理上の支援パッケージが開発者側の需要に合わせて幅広く用意されています。</p> <p>AWSやGCP、Azureといったクラウドサービスでは、我々が長らくお世話になってきたVPS/レンタルサーバ様式のスケールする仮想環境に加え、本番環境への持続的なデプロイに向けた施作やAIモデルなど多様なサービスが利用できます。</p> <p>中でもFunctionの組み合わせでトリガーに併せて処理を走らせるサーバレス実行環境は、</p> <p>シンプルな実行環境から大量のトランザクションが発生するバックエンドまで対応でき、Web開発における力強い選択肢になっています。</p> <p>(Cronなどのタイマー形式の実行環境とともに、ある種のローコード...",
+            "url": "https://engineercafe.connpass.com/event/278059/",
+            "title": "AWSではじめるサーバーレス入門ハンズオン(2023-03-22 Wed) | EngineerCafe グループの新着イベント",
+            "summary": "開催日時: 2023/03/22 18:30 ～ 21:00<br />開催場所: 福岡市中央区天神1丁目15番30号<br /><br /><h2>ハッカサポーターの吉野さんと一緒にサーバレスアーキテクチャを用いたWebアプリ開発について学んでみましょう！</h2> <h2>内容</h2> <p>昨今は各社のクラウドサービスにはインフラ構成に加え、開発管理上の支援パッケージが開発者側の需要に合わ...",
+            "date_modified": "2023-03-14T05:43:48.000Z",
+            "date_published": "2023-03-14T05:43:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AWSではじめるサーバーレス入門ハンズオン(2023-03-22 Wed)",
+                "blogTitle": "EngineerCafe グループの新着イベント",
+                "blogLink": "https://engineercafe.connpass.com/",
+                "blogLinkMd5Hash": "ca98b777a76f998f48162aad087c82f5"
+            }
+        }
+    ]
+}
